@@ -39,7 +39,7 @@ def simple_file_sensor_flow():
         filepath=FILE_PATH,
         poke_interval=10, # Intervalo de tiempo en segundos, en el que el sensor revisa
         timeout=60,
-        mode="poke" # Modo poke (bloqueante síncrono) o reschedule (no bloqueante asíncrono)
+        mode="reschedule" # Modo poke (bloqueante síncrono) o reschedule (no bloqueante asíncrono)
     )
 
     # Tarea 3: Procesar archivo
