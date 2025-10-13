@@ -10,7 +10,7 @@ FILE_PATH = "/opt/airflow/raw/data_file.txt"
 @dag(
     dag_id="simple_file_sensor_dag",
     start_date=datetime.now() - timedelta(days=1),
-    schedule_interval="@daily",
+    schedule="@daily",
     catchup=False,
     tags=["lab", "sensor", "simple"]
 )
