@@ -52,7 +52,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 75,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -141,7 +141,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 41,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -410,7 +410,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -498,7 +498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -582,7 +582,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 471,
@@ -842,12 +842,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382794",
-            "name": "Stardom in Kofu 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382795",
             "name": "Stardom in Joetsu 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382796",
+            "name": "Stardom in Himeji 2025"
           }
         }
       }
@@ -1247,7 +1247,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1340,7 +1340,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2235,7 +2235,7 @@
         "rating": {
           "average": null
         },
-        "weight": 81,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2562,7 +2562,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 85,
+        "weight": 89,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2659,7 +2659,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 85,
+        "weight": 89,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2760,7 +2760,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 20,

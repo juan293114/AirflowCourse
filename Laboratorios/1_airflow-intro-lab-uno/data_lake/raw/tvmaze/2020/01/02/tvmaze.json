@@ -45,7 +45,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -1021,7 +1021,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1279,7 +1279,7 @@
         "rating": {
           "average": null
         },
-        "weight": 28,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1541,7 +1541,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 293,
@@ -1716,7 +1716,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -1807,7 +1807,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -1897,7 +1897,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 48,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -2324,12 +2324,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382794",
-            "name": "Stardom in Kofu 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382795",
             "name": "Stardom in Joetsu 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382796",
+            "name": "Stardom in Himeji 2025"
           }
         }
       }
@@ -3131,7 +3131,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3224,7 +3224,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3501,7 +3501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -3594,7 +3594,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5040,7 +5040,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5406,7 +5406,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -6420,7 +6420,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6443,7 +6443,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1760221191,
+        "updated": 1760319042,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
@@ -6508,7 +6508,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 58,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -6593,7 +6593,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 103,

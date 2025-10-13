@@ -1693,7 +1693,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1782,7 +1782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1871,7 +1871,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1960,7 +1960,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -5605,7 +5605,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5688,7 +5688,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5771,7 +5771,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5854,7 +5854,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5937,7 +5937,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6020,7 +6020,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6103,7 +6103,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6186,7 +6186,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6269,7 +6269,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6352,7 +6352,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6445,7 +6445,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6538,7 +6538,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7359,7 +7359,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9137,7 +9137,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9160,7 +9160,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1760221191,
+        "updated": 1760319042,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
@@ -9320,7 +9320,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -9405,7 +9405,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 103,

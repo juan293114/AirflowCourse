@@ -750,7 +750,7 @@
         "rating": {
           "average": null
         },
-        "weight": 28,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1446,7 +1446,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 208,
@@ -1702,7 +1702,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1962,7 +1962,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2136,7 +2136,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 22,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -2628,7 +2628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3430,7 +3430,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3594,7 +3594,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3680,7 +3680,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3766,7 +3766,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3852,7 +3852,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3938,7 +3938,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4024,7 +4024,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4110,7 +4110,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4196,7 +4196,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4278,7 +4278,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5419,7 +5419,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5743,7 +5743,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -5772,10 +5772,6 @@
             "href": "https://api.tvmaze.com/shows/64132"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3362960",
-            "name": "EP.164 Today, Happy Together"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3362961",
             "name": "EP.165"
           }
@@ -6727,7 +6723,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -6820,7 +6816,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6843,7 +6839,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1760221191,
+        "updated": 1760319042,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
@@ -6990,7 +6986,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -7093,18 +7089,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1759844053,
+        "updated": 1760361168,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3259116",
-            "name": "#1689 - American Airlines Center in Dallas, TX"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3259117",
             "name": "#1690 - RAC Arena in Perth, Australia"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3307330",
+            "name": "#1691 - Golden 1 Center in Sacramento, CA"
           }
         }
       }

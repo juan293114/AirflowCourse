@@ -52,7 +52,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 75,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -310,7 +310,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -403,7 +403,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -491,7 +491,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -575,7 +575,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 471,
@@ -1278,7 +1278,7 @@
         "rating": {
           "average": null
         },
-        "weight": 81,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1604,7 +1604,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -1923,7 +1923,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 85,
+        "weight": 89,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2020,7 +2020,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 85,
+        "weight": 89,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2121,7 +2121,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -2201,7 +2201,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 53,
         "network": {
           "id": 2,
           "name": "CBS",
@@ -2638,7 +2638,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 265,

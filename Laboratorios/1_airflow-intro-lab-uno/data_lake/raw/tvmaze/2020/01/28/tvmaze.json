@@ -45,7 +45,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -478,7 +478,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 342,
@@ -1168,7 +1168,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1528,14 +1528,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115863.jpg"
         },
         "summary": "<p>Trailers that tell you the TRUTH about your favorite Video Games ! These are the hilarious trailers the game developers don't want you to see...</p>",
-        "updated": 1743950106,
+        "updated": 1760341351,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13381"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3199308",
-            "name": "Monster Hunter Wilds"
+            "href": "https://api.tvmaze.com/episodes/3395675",
+            "name": "Hollow Knight Silksong"
           }
         }
       }
@@ -2086,7 +2086,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2348,7 +2348,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2584,7 +2584,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3008,7 +3008,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3091,7 +3091,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3419,7 +3419,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -3502,7 +3502,7 @@
         "rating": {
           "average": null
         },
-        "weight": 21,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3582,7 +3582,7 @@
         "rating": {
           "average": null
         },
-        "weight": 10,
+        "weight": 9,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -4110,7 +4110,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -4201,7 +4201,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -4711,7 +4711,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4804,7 +4804,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4827,7 +4827,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1760221191,
+        "updated": 1760319042,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
@@ -4897,7 +4897,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 103,

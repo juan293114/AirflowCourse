@@ -1552,7 +1552,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 83,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 169,
@@ -1642,7 +1642,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1822,7 +1822,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 76,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -2536,12 +2536,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382794",
-            "name": "Stardom in Kofu 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382795",
             "name": "Stardom in Joetsu 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382796",
+            "name": "Stardom in Himeji 2025"
           }
         }
       }
@@ -3775,7 +3775,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -4113,7 +4113,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4817,7 +4817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5011,7 +5011,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1002874.jpg"
         },
         "summary": null,
-        "updated": 1760188000,
+        "updated": 1760311260,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2855"
@@ -5161,7 +5161,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 331,

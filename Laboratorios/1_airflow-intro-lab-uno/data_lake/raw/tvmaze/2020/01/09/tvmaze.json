@@ -750,7 +750,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -832,7 +832,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -914,7 +914,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -996,7 +996,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1078,7 +1078,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1160,7 +1160,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1242,7 +1242,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1324,7 +1324,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1406,7 +1406,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1488,7 +1488,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1570,7 +1570,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1652,7 +1652,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1734,7 +1734,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1816,7 +1816,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1898,7 +1898,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -2163,7 +2163,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2505,7 +2505,7 @@
         "rating": {
           "average": null
         },
-        "weight": 28,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -2854,7 +2854,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 293,
@@ -3112,7 +3112,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3203,7 +3203,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -3294,7 +3294,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -3385,7 +3385,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3476,7 +3476,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3564,7 +3564,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 22,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -3645,7 +3645,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5508,7 +5508,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -5601,7 +5601,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -5878,7 +5878,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5971,7 +5971,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6055,7 +6055,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6462,7 +6462,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6548,7 +6548,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8241,7 +8241,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -8752,7 +8752,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 96,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -9267,7 +9267,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -9355,7 +9355,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -9448,7 +9448,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9471,7 +9471,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1760221191,
+        "updated": 1760319042,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
@@ -9541,7 +9541,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 103,

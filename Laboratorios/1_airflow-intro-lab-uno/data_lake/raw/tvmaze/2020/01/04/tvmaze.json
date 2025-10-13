@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -136,7 +136,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 75,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -225,7 +225,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 41,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -494,7 +494,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -762,7 +762,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -846,7 +846,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 471,
@@ -1960,12 +1960,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382794",
-            "name": "Stardom in Kofu 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382795",
             "name": "Stardom in Joetsu 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382796",
+            "name": "Stardom in Himeji 2025"
           }
         }
       }
@@ -2287,7 +2287,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2380,7 +2380,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2830,7 +2830,7 @@
         "rating": {
           "average": null
         },
-        "weight": 81,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3248,14 +3248,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/503/1259984.jpg"
         },
         "summary": null,
-        "updated": 1757917368,
+        "updated": 1760336887,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/74645"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3366832",
-            "name": "The Nintendo 3DS (#443)"
+            "href": "https://api.tvmaze.com/episodes/3395549",
+            "name": "Every Sega System 16 Arcade Game (#445)"
           }
         }
       }
@@ -3317,7 +3317,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 20,
