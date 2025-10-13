@@ -2276,11 +2276,11 @@
         "type": "Scripted",
         "language": "English",
         "genres": [],
-        "status": "Running",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": null,
         "premiered": "2012-12-13",
-        "ended": null,
+        "ended": "2020-07-27",
         "officialSite": "http://cinemassacre.com/category/jamesandmike/",
         "schedule": {
           "time": "",
@@ -2309,8 +2309,8 @@
           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/76/190038.jpg",
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/76/190038.jpg"
         },
-        "summary": "",
-        "updated": 1595948165,
+        "summary": null,
+        "updated": 1760365931,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/21398"
@@ -5643,12 +5643,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336166",
-            "name": "Aflevering 7139"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3336167",
             "name": "Aflevering 7140"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3336168",
+            "name": "Aflevering 7141"
           }
         }
       }
@@ -5976,7 +5976,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1760361168,
+        "updated": 1760384292,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"

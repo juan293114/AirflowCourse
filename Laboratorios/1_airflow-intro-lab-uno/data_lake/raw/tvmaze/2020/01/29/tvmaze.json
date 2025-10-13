@@ -7031,18 +7031,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/188/472439.jpg"
         },
         "summary": "<p>A mysterious switch appeared one day. Upon pressing it, they were sent to a different alternative world!! There are also characters from other alternative worlds gathered together...!?</p>",
-        "updated": 1759351188,
+        "updated": 1760368966,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41447"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/1796309",
-            "name": "The Show Begins! Showtime"
+            "href": "https://api.tvmaze.com/episodes/3385601",
+            "name": "Come Together! School Life"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385601",
-            "name": "Episode 1"
+            "href": "https://api.tvmaze.com/episodes/3395933",
+            "name": "Episode 2"
           }
         }
       }
@@ -7927,12 +7927,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336166",
-            "name": "Aflevering 7139"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3336167",
             "name": "Aflevering 7140"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3336168",
+            "name": "Aflevering 7141"
           }
         }
       }

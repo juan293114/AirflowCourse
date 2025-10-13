@@ -9477,12 +9477,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336166",
-            "name": "Aflevering 7139"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3336167",
             "name": "Aflevering 7140"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3336168",
+            "name": "Aflevering 7141"
           }
         }
       }
