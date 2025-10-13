@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import time
 
 # Ruta del archivo
-FILE_PATH = "/opt/airflow/raw/data_file.txt"
+FILE_PATH = "/opt/airflow/data_lake/raw/data_file.txt"
 
 @dag(
     dag_id="simple_file_sensor_dag",
