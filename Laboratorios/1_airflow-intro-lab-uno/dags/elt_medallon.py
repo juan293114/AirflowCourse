@@ -11,6 +11,7 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from elt.ingest_raw import ingest_to_raw
 from elt.bronze import copy_raw_to_bronze
+from elt.silver import transform_bronze_to_silver
 
 BOGOTA_TZ = pendulum.timezone("America/Bogota")
 
@@ -22,6 +23,9 @@ RAW_ROOT = DATA_LAKE_ROOT / "raw" / "tvmaze"
 
 #Capa bronze
 BRONZE_PATH = DATA_LAKE_ROOT / "bronze" / "tvmaze"
+
+#Capa Silver 
+SILVER_PATH = DATA_LAKE_ROOT / "silver" / "tvmaze"
 
 INGEST_PARAMS = {
     "start_date": pendulum.date(2020, 1, 1),
@@ -35,6 +39,10 @@ BRONZE_PARAMS = {
     "bronze_path": str(BRONZE_PATH / "tvmaze.parquet"),
 }
 
+SILVER_PARAMS ={
+    "bronze_path": str(BRONZE_PATH / "tvmaze.parquet"),
+    "silver_path": str(SILVER_PATH / "tvmaze_silver.parquet"),
+}
 
 with DAG(
 
@@ -55,5 +63,10 @@ with DAG(
         python_callable=copy_raw_to_bronze,
         op_kwargs=BRONZE_PARAMS,
     )
+    silver_task = PythonOperator(
+        task_id="to_silver",
+        python_callable=transform_bronze_to_silver,
+        op_kwargs=SILVER_PARAMS,
+    )
     
-    ingest_task >> bronze_task 
+    ingest_task >> bronze_task >> silver_task
