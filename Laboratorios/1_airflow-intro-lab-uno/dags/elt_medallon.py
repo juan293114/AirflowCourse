@@ -12,7 +12,7 @@ if str(PROJECT_ROOT) not in sys.path:
 from elt.ingest_raw import ingest_to_raw
 from elt.bronze import copy_raw_to_bronze
 from elt.silver import transform_bronze_to_silver
-from elt.fact_episodes import create_fact_episodes
+from elt.fact_episodes import build_fact_episodes
 
 BOGOTA_TZ = pendulum.timezone("America/Bogota")
 
@@ -79,7 +79,7 @@ with DAG(
     )
     episodes_task = PythonOperator(
         task_id="fact_episodes",
-        python_callable=create_fact_episodes,
+        python_callable=build_fact_episodes,
         op_kwargs=EPISODES_PARAMS,
     )
 
