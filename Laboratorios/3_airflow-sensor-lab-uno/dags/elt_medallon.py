@@ -41,14 +41,6 @@ DIM_NETWORKS_PATH = DIMENSIONS_ROOT / "networks.parquet"
 DIM_DATES_PATH = DIMENSIONS_ROOT / "dates.parquet"
 FACT_EPISODES_PATH = FACTS_ROOT / "episodes.parquet"
 
-load_dotenv()
-
-EMAIL_SUBJECT = "Procesamiento de episodios finalizado"
-EMAIL_BODY = """
-El procesamiento del flujo de episodios ha finalizado exitosamente.
-
-"""
-
 INGEST_PARAMS = {
     "start_date": pendulum.date(2024, 1, 1),
     "end_date": pendulum.date(2024, 1, 31),
@@ -80,6 +72,13 @@ FACT_EPISODES_PARAMS = {
     "output_path": str(FACT_EPISODES_PATH),
 }
 
+load_dotenv()
+
+EMAIL_SUBJECT = "Procesamiento de episodios finalizado"
+EMAIL_BODY = """
+El procesamiento del flujo de episodios ha finalizado exitosamente.
+
+"""
 
 def send_completion_email() -> None:
     """Envía notificación cuando el archivo de episodios está disponible."""
@@ -143,7 +142,7 @@ def elt_medallon_dag():
     wait_for_fact_episodes = FileSensor(
         task_id="wait_for_fact_episodes",
         filepath=str(FACT_EPISODES_PATH),
-        poke_interval=5,
+        poke_interval=30,
         timeout=3600,
         fs_conn_id="fs_default",
         mode="poke",
