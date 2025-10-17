@@ -11291,14 +11291,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/478/1197132.jpg"
         },
         "summary": null,
-        "updated": 1760708650,
+        "updated": 1760708786,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/71524"
           },
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3397448",
-            "name": "34. r\u00e9sz"
+            "name": "Szijj\u00e1rt\u00f3 NEM J\u00d6N Pamkutya koncertre"
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3397449",
