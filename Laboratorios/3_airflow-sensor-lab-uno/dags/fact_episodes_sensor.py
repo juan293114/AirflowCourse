@@ -26,6 +26,7 @@ FACT_EPISODES_PATH = FACTS_ROOT / "episodes.parquet"
 EMAIL_SUBJECT = "Procesamiento de episodios finalizado"
 EMAIL_BODY = """
 El procesamiento del flujo de episodios ha finalizado exitosamente.
+
 """
 
 
@@ -59,8 +60,8 @@ def fact_episodes_sensor_dag():
     wait_for_fact_episodes = FileSensor(
         task_id="wait_for_fact_episodes",
         filepath=str(FACT_EPISODES_PATH),
-        poke_interval=30,
-        timeout=3600,
+        poke_interval=5,
+        timeout=60,
         fs_conn_id="fs_default",
         mode="poke",
     )
