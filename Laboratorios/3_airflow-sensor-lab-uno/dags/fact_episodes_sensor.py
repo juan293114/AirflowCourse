@@ -61,7 +61,7 @@ def fact_episodes_sensor_dag():
         task_id="wait_for_fact_episodes",
         filepath=str(FACT_EPISODES_PATH),
         poke_interval=5,
-        timeout=60,
+        timeout=3600,
         fs_conn_id="fs_default",
         mode="poke",
     )

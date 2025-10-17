@@ -1,8 +1,16 @@
+import os
+import smtplib
+import ssl
 import sys
+from email.message import EmailMessage
 from pathlib import Path
 
 import pendulum
 from airflow.decorators import dag, task
+from airflow.operators.python import PythonOperator
+from airflow.sensors.filesystem import FileSensor
+
+from dotenv import load_dotenv
 
 # Ajuste del path para importar los módulos
 PROJECT_ROOT = "/opt/airflow/"
@@ -32,6 +40,14 @@ DIM_SHOWS_PATH = DIMENSIONS_ROOT / "shows.parquet"
 DIM_NETWORKS_PATH = DIMENSIONS_ROOT / "networks.parquet"
 DIM_DATES_PATH = DIMENSIONS_ROOT / "dates.parquet"
 FACT_EPISODES_PATH = FACTS_ROOT / "episodes.parquet"
+
+load_dotenv()
+
+EMAIL_SUBJECT = "Procesamiento de episodios finalizado"
+EMAIL_BODY = """
+El procesamiento del flujo de episodios ha finalizado exitosamente.
+
+"""
 
 INGEST_PARAMS = {
     "start_date": pendulum.date(2024, 1, 1),
@@ -63,6 +79,25 @@ FACT_EPISODES_PARAMS = {
     "silver_path": str(SILVER_PATH),
     "output_path": str(FACT_EPISODES_PATH),
 }
+
+
+def send_completion_email() -> None:
+    """Envía notificación cuando el archivo de episodios está disponible."""
+    email_sender = os.getenv("EMAIL_SENDER", "juandavid2931@gmail.com")
+    email_password = os.getenv("EMAIL_PASSWORD", "ebin hvzu xfzw nqby")
+    email_receiver = os.getenv("EMAIL_RECEIVER", "jdravila@bancolombia.com.co")
+
+    message = EmailMessage()
+    message["From"] = email_sender
+    message["To"] = email_receiver
+    message["Subject"] = EMAIL_SUBJECT
+    message.set_content(EMAIL_BODY)
+
+    context = ssl.create_default_context()
+
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as smtp:
+        smtp.login(email_sender, email_password)
+        smtp.send_message(message)
 
 
 # -----------------------------------
@@ -105,6 +140,20 @@ def elt_medallon_dag():
     def fact_episodes():
         build_fact_episodes(**FACT_EPISODES_PARAMS)
 
+    wait_for_fact_episodes = FileSensor(
+        task_id="wait_for_fact_episodes",
+        filepath=str(FACT_EPISODES_PATH),
+        poke_interval=5,
+        timeout=3600,
+        fs_conn_id="fs_default",
+        mode="poke",
+    )
+
+    send_email_task = PythonOperator(
+        task_id="notify_fact_episodes_ready",
+        python_callable=send_completion_email,
+    )
+
     # Orquestación
     i = ingest_raw()
     b = copy_to_bronze()
@@ -114,7 +163,7 @@ def elt_medallon_dag():
     d_dates = dim_time()
     f_episodes = fact_episodes()
 
-    i >> b >> s >> [d_shows, d_networks, d_dates] >> f_episodes
+    i >> b >> s >> [d_shows, d_networks, d_dates] >> f_episodes >> wait_for_fact_episodes >> send_email_task
 
 
 # Instanciamos el DAG
