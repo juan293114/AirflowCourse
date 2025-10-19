@@ -105,7 +105,7 @@ def send_completion_email() -> None:
     dag_id="elt_medallon",
     schedule="0 5 * * *",
     start_date=pendulum.datetime(2025, 10, 18, tz=BOGOTA_TZ),
-    catchup=True,
+    catchup=False,
     tags=["elt", "api"],
 )
 def elt_medallon_dag():
