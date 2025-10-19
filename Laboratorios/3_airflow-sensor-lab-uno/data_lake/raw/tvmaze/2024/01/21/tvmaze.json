@@ -254,12 +254,12 @@
             "href": "https://api.tvmaze.com/shows/28359"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3316030",
-            "name": "Episode 168"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3316031",
             "name": "Episode 169"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3316032",
+            "name": "Episode 170"
           }
         }
       }
@@ -319,7 +319,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -409,7 +409,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 69,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -498,7 +498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -585,7 +585,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 79,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -608,14 +608,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/472/1181083.jpg"
         },
         "summary": "<p>Exiled from his sect and left homeless, Ye Chen, a discarded disciple, stumbles upon a fortuitous encounter: the acquisition of true fire. With this newfound power, he sets foot once again on the path of cultivation. In this world where gods, demons, immortals, and Buddhas coexist, and amidst the chaos of countless realms, Ye Chen embarks on an extraordinary journey defying the heavens. Through hardships and reincarnations, he ultimately ascends to the pinnacle of the Great Dao.</p>",
-        "updated": 1758642135,
+        "updated": 1760799225,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/70568"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3375179",
-            "name": "Episode 134"
+            "href": "https://api.tvmaze.com/episodes/3400831",
+            "name": "Episode 136"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3400832",
+            "name": "Episode 137"
           }
         }
       }
@@ -674,7 +678,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -877,12 +881,12 @@
             "href": "https://api.tvmaze.com/shows/49740"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382769",
-            "name": "TJPW Autumn Victory in Shinjuku Vol. 1"
+            "href": "https://api.tvmaze.com/episodes/3382772",
+            "name": "TJPW Autumn Victory in Takasaki"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382771",
-            "name": "TJPW Additional Attack '25"
+            "href": "https://api.tvmaze.com/episodes/3382773",
+            "name": "TJPW Autumn Victory in Ryogoku"
           }
         }
       }
@@ -1120,7 +1124,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1213,7 +1217,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1582,7 +1586,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2137,7 +2141,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2226,7 +2230,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2315,7 +2319,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2404,7 +2408,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2493,7 +2497,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2582,7 +2586,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2671,7 +2675,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2760,7 +2764,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2849,7 +2853,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2938,7 +2942,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -3027,7 +3031,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -3116,7 +3120,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -3205,7 +3209,7 @@
         "rating": {
           "average": 4.8
         },
-        "weight": 95,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -3895,7 +3899,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 64,
         "network": {
           "id": 308,
           "name": "\u0422\u041d\u0422",
@@ -3918,18 +3922,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/581/1453837.jpg"
         },
         "summary": "<p>Every week, Pavel, together with invited guests - stars and the most ordinary people - will sum up the results of the outgoing week and do it in his signature humorous manner in the best traditions of TNT. In each issue, viewers will learn about the most interesting events that have taken place in the world, as well as hear opinions from stars and presenters.</p><p>Volya Show promises to amaze with bold experiments and fresh formats. Every Sunday, viewers will be treated to a real attraction of daring humor on the topic of the day, interactive with the participation of top stars, absurd contests, unexpected musical experiences and just a lot of fun with Pavel Volya and his guests.</p>",
-        "updated": 1760358818,
+        "updated": 1760899972,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/67886"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3373192",
-            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 126"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3395756",
             "name": "\u0412\u044b\u043f\u0443\u0441\u043a 127"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3401662",
+            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 128"
           }
         }
       }
@@ -4543,7 +4547,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4633,7 +4637,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4720,7 +4724,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -5185,7 +5189,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5263,7 +5267,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -5288,12 +5292,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382797",
-            "name": "Stardom New Blood 25"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382798",
             "name": "Stardom in Toyohashi 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382799",
+            "name": "Stardom in Fuji 2025 Oct."
           }
         }
       }
@@ -5372,12 +5376,12 @@
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3398978",
-            "name": "\u0412 \u0433\u043e\u0441\u0442\u044f\u0445 \u0443 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u044e\u0442\u0443\u0431\u0435\u0440\u0430 \u0420\u043e\u0441\u0441\u0438\u0438"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3372019",
             "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 191-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3372020",
+            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 192-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
           }
         }
       }
@@ -5682,7 +5686,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5932,7 +5936,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6211,7 +6215,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -6301,7 +6305,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6391,7 +6395,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7675,7 +7679,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 331,
@@ -7759,7 +7763,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -7841,7 +7845,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -7923,7 +7927,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8005,7 +8009,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8087,7 +8091,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8169,7 +8173,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8251,7 +8255,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8333,7 +8337,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8415,7 +8419,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8497,7 +8501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8579,7 +8583,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -8663,7 +8667,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 699,
@@ -9523,7 +9527,7 @@
         "rating": {
           "average": 5.8
         },
-        "weight": 71,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 155,

@@ -50,7 +50,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 208,
@@ -144,7 +144,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -319,7 +319,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 208,
@@ -523,12 +523,12 @@
             "href": "https://api.tvmaze.com/shows/28359"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3316030",
-            "name": "Episode 168"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3316031",
             "name": "Episode 169"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3316032",
+            "name": "Episode 170"
           }
         }
       }
@@ -588,7 +588,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -678,7 +678,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 69,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -767,7 +767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -854,7 +854,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 79,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -877,14 +877,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/472/1181083.jpg"
         },
         "summary": "<p>Exiled from his sect and left homeless, Ye Chen, a discarded disciple, stumbles upon a fortuitous encounter: the acquisition of true fire. With this newfound power, he sets foot once again on the path of cultivation. In this world where gods, demons, immortals, and Buddhas coexist, and amidst the chaos of countless realms, Ye Chen embarks on an extraordinary journey defying the heavens. Through hardships and reincarnations, he ultimately ascends to the pinnacle of the Great Dao.</p>",
-        "updated": 1758642135,
+        "updated": 1760799225,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/70568"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3375179",
-            "name": "Episode 134"
+            "href": "https://api.tvmaze.com/episodes/3400831",
+            "name": "Episode 136"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3400832",
+            "name": "Episode 137"
           }
         }
       }
@@ -943,7 +947,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1211,7 +1215,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1304,7 +1308,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1392,7 +1396,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2912,7 +2916,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3004,7 +3008,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3290,7 +3294,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -3315,12 +3319,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382797",
-            "name": "Stardom New Blood 25"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382798",
             "name": "Stardom in Toyohashi 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382799",
+            "name": "Stardom in Fuji 2025 Oct."
           }
         }
       }
@@ -3379,7 +3383,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3718,7 +3722,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4068,7 +4072,7 @@
         "rating": {
           "average": null
         },
-        "weight": 28,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4154,7 +4158,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4240,7 +4244,7 @@
         "rating": {
           "average": 5.2
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -4828,7 +4832,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -4910,7 +4914,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 331,
@@ -4994,7 +4998,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 699,
@@ -5076,7 +5080,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -5167,7 +5171,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 89,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 447,
@@ -5589,7 +5593,7 @@
         "rating": {
           "average": 5.8
         },
-        "weight": 71,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5677,7 +5681,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5764,7 +5768,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 88,
+        "weight": 53,
         "network": {
           "id": 2,
           "name": "CBS",
@@ -6890,7 +6894,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 572,

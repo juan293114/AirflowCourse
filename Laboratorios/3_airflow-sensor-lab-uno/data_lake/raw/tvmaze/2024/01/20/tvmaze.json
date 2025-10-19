@@ -229,7 +229,7 @@
         "rating": {
           "average": 6.3
         },
-        "weight": 84,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -258,12 +258,12 @@
             "href": "https://api.tvmaze.com/shows/55087"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3388595",
-            "name": "Episode 373"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3388596",
             "name": "Episode 374"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3388597",
+            "name": "Episode 375"
           }
         }
       }
@@ -323,7 +323,7 @@
         "rating": {
           "average": 6.3
         },
-        "weight": 84,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -352,12 +352,12 @@
             "href": "https://api.tvmaze.com/shows/55087"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3388595",
-            "name": "Episode 373"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3388596",
             "name": "Episode 374"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3388597",
+            "name": "Episode 375"
           }
         }
       }
@@ -417,7 +417,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 69,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -503,7 +503,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 66,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -588,7 +588,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -617,12 +617,12 @@
             "href": "https://api.tvmaze.com/shows/67773"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3316071",
-            "name": "Episode 285"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3399840",
             "name": "Episode 286"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3399841",
+            "name": "Episode 287"
           }
         }
       }
@@ -1071,12 +1071,12 @@
             "href": "https://api.tvmaze.com/shows/49740"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382769",
-            "name": "TJPW Autumn Victory in Shinjuku Vol. 1"
+            "href": "https://api.tvmaze.com/episodes/3382772",
+            "name": "TJPW Autumn Victory in Takasaki"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382771",
-            "name": "TJPW Additional Attack '25"
+            "href": "https://api.tvmaze.com/episodes/3382773",
+            "name": "TJPW Autumn Victory in Ryogoku"
           }
         }
       }
@@ -1134,7 +1134,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 46,
         "network": {
           "id": 127,
           "name": "SBS",
@@ -1220,7 +1220,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -1566,7 +1566,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1654,7 +1654,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 81,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1743,7 +1743,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1831,7 +1831,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2369,7 +2369,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3013,7 +3013,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 86,
@@ -3184,7 +3184,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3203,7 +3203,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/522/1307271.jpg"
         },
         "summary": "<p>What if we could see the universe from a different perspective? If we weren't limited by Earth's gravity and could just fly through space and see planets up close? Well... we'll probably freak out when we notice they have a face!</p>",
-        "updated": 1760261041,
+        "updated": 1760872739,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/77713"
@@ -3274,7 +3274,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -3297,7 +3297,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/507/1269462.jpg"
         },
         "summary": "<p>They're fighting to save patients while their personal lives are brimming with drama and intrigue. Everything's at stake on the emergency ward.</p>",
-        "updated": 1759562034,
+        "updated": 1760872947,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/729"
@@ -3449,7 +3449,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 566,
@@ -4271,7 +4271,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4362,7 +4362,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4546,7 +4546,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -4571,12 +4571,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382797",
-            "name": "Stardom New Blood 25"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382798",
             "name": "Stardom in Toyohashi 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382799",
+            "name": "Stardom in Fuji 2025 Oct."
           }
         }
       }
@@ -4720,7 +4720,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4887,7 +4887,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -4975,7 +4975,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5063,7 +5063,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5151,7 +5151,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5239,7 +5239,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5327,7 +5327,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5415,7 +5415,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5503,7 +5503,7 @@
         "rating": {
           "average": 1.3
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -5842,7 +5842,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5945,18 +5945,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/478/1197132.jpg"
         },
         "summary": null,
-        "updated": 1760708786,
+        "updated": 1760784712,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/71524"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397448",
-            "name": "Szijj\u00e1rt\u00f3 NEM J\u00d6N Pamkutya koncertre"
+            "href": "https://api.tvmaze.com/episodes/3397449",
+            "name": "Ez a kamp\u00e1ny el fogja mosni A VAL\u00d3S\u00c1G HAT\u00c1RAIT"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397449",
-            "name": "35. r\u00e9sz"
+            "href": "https://api.tvmaze.com/episodes/3397450",
+            "name": "36. r\u00e9sz"
           }
         }
       }
@@ -6574,7 +6574,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6664,7 +6664,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7077,7 +7077,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7254,14 +7254,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1760658243,
+        "updated": 1760871674,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3399209",
-            "name": "#2394 - Palmer Luckey"
+            "href": "https://api.tvmaze.com/episodes/3401050",
+            "name": "#2396 - Andrew Schulz"
           }
         }
       }
@@ -7315,7 +7315,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 2,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7334,14 +7334,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/588/1471791.jpg"
         },
         "summary": "<p>Shayne Topp reads insane and interesting Reddit stories, every week joined by two guests.</p>",
-        "updated": 1759051821,
+        "updated": 1760870510,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/87266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3379672",
-            "name": "OOPS, All Updates | Reading Reddit Stories"
+            "href": "https://api.tvmaze.com/episodes/3401027",
+            "name": "Family Matters | Reading Reddit Stories"
           }
         }
       }
@@ -7428,18 +7428,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/590/1476993.jpg"
         },
         "summary": "<p>Sato is a high school boy in love with his best friend Hime, an unearthly beauty from another realm. So when she moves back to her home world to get married, Sato doesn't think twice\u2014he follows her and crashes the wedding. Then, after a kiss from Hime, he suddenly becomes the new groom! But here, Hime is a Ring Princess and her husband is destined to be the Ring King: a hero of immense power.</p>",
-        "updated": 1760188126,
+        "updated": 1760830170,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72683"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3383113",
-            "name": "Episode 2"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3383114",
             "name": "Episode 3"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3383115",
+            "name": "Episode 4"
           }
         }
       }
@@ -7760,7 +7760,7 @@
         "rating": {
           "average": null
         },
-        "weight": 88,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -7789,12 +7789,12 @@
             "href": "https://api.tvmaze.com/shows/66667"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3389354",
-            "name": "Weird Delivery 2: Return to Pretendo Time"
+            "href": "https://api.tvmaze.com/episodes/3389356",
+            "name": "Troubles Wubbington"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3389355",
-            "name": "Next Year's Musical"
+            "href": "https://api.tvmaze.com/episodes/3389357",
+            "name": "Uncle Pat in Charge"
           }
         }
       }
@@ -7846,7 +7846,7 @@
         "rating": {
           "average": null
         },
-        "weight": 88,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -7875,12 +7875,12 @@
             "href": "https://api.tvmaze.com/shows/66667"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3389354",
-            "name": "Weird Delivery 2: Return to Pretendo Time"
+            "href": "https://api.tvmaze.com/episodes/3389356",
+            "name": "Troubles Wubbington"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3389355",
-            "name": "Next Year's Musical"
+            "href": "https://api.tvmaze.com/episodes/3389357",
+            "name": "Uncle Pat in Charge"
           }
         }
       }
@@ -7932,7 +7932,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 11,
@@ -13787,7 +13787,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 347,

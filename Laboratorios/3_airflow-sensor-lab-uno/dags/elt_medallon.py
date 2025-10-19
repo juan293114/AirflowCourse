@@ -72,19 +72,19 @@ FACT_EPISODES_PARAMS = {
     "output_path": str(FACT_EPISODES_PATH),
 }
 
-load_dotenv()
 
-EMAIL_SUBJECT = "Procesamiento de episodios finalizado"
-EMAIL_BODY = """
-El procesamiento del flujo de episodios ha finalizado exitosamente.
-
-"""
 
 def send_completion_email() -> None:
     """Envía notificación cuando el archivo de episodios está disponible."""
-    email_sender = os.getenv("EMAIL_SENDER", "juandavid2931@gmail.com")
-    email_password = os.getenv("EMAIL_PASSWORD", "ebin hvzu xfzw nqby")
-    email_receiver = os.getenv("EMAIL_RECEIVER", "jdravila@bancolombia.com.co")
+
+    EMAIL_SUBJECT = "Procesamiento de episodios finalizado"
+    EMAIL_BODY = """
+    El procesamiento del flujo de episodios ha finalizado exitosamente.
+
+    """
+    email_sender = "juandavid2931@gmail.com"
+    email_password = " g"
+    email_receiver = "jdravila@bancolombia.com.co"
 
     message = EmailMessage()
     message["From"] = email_sender
@@ -111,6 +111,8 @@ def send_completion_email() -> None:
     tags=["elt", "api"],
 )
 def elt_medallon_dag():
+
+    
     @task()
     def ingest_raw():
         ingest_to_raw(**INGEST_PARAMS)

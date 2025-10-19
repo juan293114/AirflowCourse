@@ -140,7 +140,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 569,
@@ -489,7 +489,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -576,7 +576,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -664,7 +664,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -749,7 +749,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -778,12 +778,12 @@
             "href": "https://api.tvmaze.com/shows/67773"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3316071",
-            "name": "Episode 285"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3399840",
             "name": "Episode 286"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3399841",
+            "name": "Episode 287"
           }
         }
       }
@@ -1208,7 +1208,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1385,7 +1385,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -2391,7 +2391,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2485,7 +2485,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2669,7 +2669,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 86,
@@ -2759,7 +2759,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 36,
         "network": {
           "id": 514,
           "name": "\u0422\u0412-3",
@@ -2845,7 +2845,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -3125,7 +3125,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 53,
         "network": {
           "id": 166,
           "name": "MBC",
@@ -3501,7 +3501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4431,7 +4431,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 85,
+        "weight": 82,
         "network": {
           "id": 280,
           "name": "tvN",
@@ -4523,7 +4523,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 94,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4612,7 +4612,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -4694,7 +4694,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4941,7 +4941,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5023,7 +5023,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5206,12 +5206,12 @@
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3398978",
-            "name": "\u0412 \u0433\u043e\u0441\u0442\u044f\u0445 \u0443 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u044e\u0442\u0443\u0431\u0435\u0440\u0430 \u0420\u043e\u0441\u0441\u0438\u0438"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3372019",
             "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 191-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3372020",
+            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 192-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
           }
         }
       }
@@ -5288,14 +5288,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/378/945587.jpg"
         },
         "summary": "<p>First Ukrainian cartoon series based on real events and unreal adventures of Ukrainians \u2014 the Travelbook. Ukraine.</p><p>Why a \"book\"? Because the series was created on the basis of the bestselling book, the Travelbook. Ukraine from creative agency Green Penguin Media, and now the characters, stories and discoveries have come to life on Ukrainian YouTube!</p><p>How can a Ukrainian decipher the script of an ancient Mayan civilization without leaving the office? Why should you never challenge a Nobel prize winner to a duel? Who helped Mykola Gogol create the first Ukrainian fantasy? How did the Ukrainian woman change the world of ballet fashion and receive an Oscar?</p>",
-        "updated": 1730818172,
+        "updated": 1760869579,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46286"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3044692",
-            "name": "\u041a\u0420\u0418\u041c"
+            "href": "https://api.tvmaze.com/episodes/3401011",
+            "name": "\u041a\u0410\u0420\u0410\u0407\u041c\u0418"
           }
         }
       }
@@ -5538,7 +5538,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/581/1454640.jpg"
         },
         "summary": "<p>12-year-old modern demigod Percy Jackson has just come to terms with his newfound supernatural powers when the sky god Zeus accuses him of stealing his master lightning bolt. Now Percy must trek across America to find it and restore order to Olympus.</p>",
-        "updated": 1754727273,
+        "updated": 1760904988,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/48108"
@@ -5611,7 +5611,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 81,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -5798,7 +5798,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 44,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 245,
@@ -5882,7 +5882,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -6154,18 +6154,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/478/1197132.jpg"
         },
         "summary": null,
-        "updated": 1760708786,
+        "updated": 1760784712,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/71524"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397448",
-            "name": "Szijj\u00e1rt\u00f3 NEM J\u00d6N Pamkutya koncertre"
+            "href": "https://api.tvmaze.com/episodes/3397449",
+            "name": "Ez a kamp\u00e1ny el fogja mosni A VAL\u00d3S\u00c1G HAT\u00c1RAIT"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397449",
-            "name": "35. r\u00e9sz"
+            "href": "https://api.tvmaze.com/episodes/3397450",
+            "name": "36. r\u00e9sz"
           }
         }
       }
@@ -6307,7 +6307,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 619,
@@ -6593,7 +6593,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6874,7 +6874,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7378,7 +7378,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 623,
@@ -7647,14 +7647,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1760658243,
+        "updated": 1760871674,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3399209",
-            "name": "#2394 - Palmer Luckey"
+            "href": "https://api.tvmaze.com/episodes/3401050",
+            "name": "#2396 - Andrew Schulz"
           }
         }
       }
@@ -7948,7 +7948,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8231,7 +8231,7 @@
         "rating": {
           "average": null
         },
-        "weight": 88,
+        "weight": 89,
         "network": {
           "id": 36,
           "name": "CBC",
@@ -8404,7 +8404,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": {
           "id": 1,
           "name": "NBC",
@@ -8436,7 +8436,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
         },
         "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-        "updated": 1760706648,
+        "updated": 1760897759,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72466"
@@ -8447,7 +8447,7 @@
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3397783",
-            "name": "Episode 209"
+            "name": "Jessy Schram, Miranda Rae Mayo, Marina Squerciati, Jeff Kinney"
           }
         }
       }
@@ -8535,18 +8535,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298651.jpg"
         },
         "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-        "updated": 1760660831,
+        "updated": 1760742815,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/812"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382044",
-            "name": "Ep. #15228"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382045",
             "name": "Ep. #15229"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382046",
+            "name": "Ep. #15230"
           }
         }
       }
@@ -8603,7 +8603,7 @@
         "rating": {
           "average": 3
         },
-        "weight": 87,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 213,
@@ -8694,7 +8694,7 @@
         "rating": {
           "average": 5.5
         },
-        "weight": 78,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -8785,7 +8785,7 @@
         "rating": {
           "average": 5.5
         },
-        "weight": 78,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -8958,7 +8958,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -9040,7 +9040,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 331,
@@ -9128,7 +9128,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 11,
@@ -9151,18 +9151,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
         },
         "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-        "updated": 1760532427,
+        "updated": 1760722180,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/73192"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3390687",
-            "name": "Episode 206"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3390688",
             "name": "Episode 207"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3397804",
+            "name": "Episode 208"
           }
         }
       }
@@ -9221,7 +9221,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 460,
@@ -9309,7 +9309,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 619,
@@ -9652,7 +9652,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -9737,7 +9737,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -9766,12 +9766,12 @@
             "href": "https://api.tvmaze.com/shows/76217"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382646",
-            "name": "Episode 207"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3382647",
             "name": "Episode 208"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3382648",
+            "name": "Episode 209"
           }
         }
       }
@@ -9865,18 +9865,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/586/1465552.jpg"
         },
         "summary": "<p><b>GMA3</b> is a news, health, lifestyle and shopping program.</p>",
-        "updated": 1760636877,
+        "updated": 1760753526,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72930"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3390693",
-            "name": "Oct. 16, 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3390694",
             "name": "Oct. 17, 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3397809",
+            "name": "Chandra Wilson, Salt-N-Pepa, Kate Sandoval Box"
           }
         }
       }
@@ -9962,7 +9962,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1760581494,
+        "updated": 1760833293,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
@@ -10231,7 +10231,7 @@
         "rating": {
           "average": null
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 52,
@@ -10498,7 +10498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -10670,7 +10670,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -10754,7 +10754,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 93,
+        "weight": 94,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -11213,12 +11213,12 @@
             "href": "https://api.tvmaze.com/shows/76581"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385144",
-            "name": "Episode 202"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3385145",
             "name": "Episode 203"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3385146",
+            "name": "Episode 204"
           }
         }
       }
@@ -11280,7 +11280,7 @@
         "rating": {
           "average": 4.4
         },
-        "weight": 99,
+        "weight": 98,
         "network": {
           "id": 1,
           "name": "NBC",
@@ -11312,7 +11312,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335993.jpg"
         },
         "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-        "updated": 1760610151,
+        "updated": 1760755118,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/718"
