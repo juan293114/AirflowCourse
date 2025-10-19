@@ -83,7 +83,7 @@ def send_completion_email() -> None:
 
     """
     email_sender = "juandavid2931@gmail.com"
-    email_password = " g"
+    email_password = "oxyb pxkl hiuy eogr"
     email_receiver = "jdravila@bancolombia.com.co"
 
     message = EmailMessage()
@@ -106,7 +106,7 @@ def send_completion_email() -> None:
 @dag(
     dag_id="elt_medallon",
     schedule="0 5 * * *",
-    start_date=pendulum.datetime(2024, 1, 1, tz=BOGOTA_TZ),
+    start_date=pendulum.datetime(2025, 10, 18, tz=BOGOTA_TZ),
     catchup=False,
     tags=["elt", "api"],
 )
@@ -115,31 +115,31 @@ def elt_medallon_dag():
     
     @task()
     def ingest_raw():
-        ingest_to_raw(**INGEST_PARAMS)
+        return ingest_to_raw(**INGEST_PARAMS)
 
     @task()
     def copy_to_bronze():
-        copy_raw_to_bronze(**BRONZE_PARAMS)
+        return copy_raw_to_bronze(**BRONZE_PARAMS)
 
     @task()
     def to_silver():
-        transform_bronze_to_silver(**SILVER_PARAMS)
+        return transform_bronze_to_silver(**SILVER_PARAMS)
 
     @task()
     def dim_show():
-        build_dim_shows(**DIM_SHOWS_PARAMS)
+        return build_dim_shows(**DIM_SHOWS_PARAMS)
 
     @task()
     def dim_network():
-        build_dim_networks(**DIM_NETWORKS_PARAMS)
+        return build_dim_networks(**DIM_NETWORKS_PARAMS)
 
     @task()
     def dim_time():
-        build_dim_time(**DIM_DATES_PARAMS)
+        return build_dim_time(**DIM_DATES_PARAMS)
 
     @task()
     def fact_episodes():
-        build_fact_episodes(**FACT_EPISODES_PARAMS)
+        return build_fact_episodes(**FACT_EPISODES_PARAMS)
 
     wait_for_fact_episodes = FileSensor(
         task_id="wait_for_fact_episodes",
