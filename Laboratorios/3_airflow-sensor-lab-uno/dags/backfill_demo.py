@@ -15,12 +15,15 @@ BOGOTA_TZ = pendulum.timezone("America/Bogota")
 )
 def backfill_demo():
     @task()
-    def log_context(execution_date: pendulum.DateTime, data_interval_end: pendulum.DateTime) -> None:
-        """Log timestamps so you can see each backfilled interval."""
+    def log_context(**context) -> None:
+        """Log timestamps to see each backfilled interval."""
+        execution_date = context["logical_date"]
+        data_interval_end = context["data_interval_end"]
         print("Execution date:", execution_date.isoformat())
         print("Data interval end:", data_interval_end.isoformat())
 
-    log_context()
+    log = log_context()
+    log
 
 
 dag = backfill_demo()
