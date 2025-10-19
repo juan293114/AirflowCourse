@@ -10,8 +10,6 @@ from airflow.decorators import dag, task
 from airflow.operators.python import PythonOperator
 from airflow.sensors.filesystem import FileSensor
 
-from dotenv import load_dotenv
-
 # Ajuste del path para importar los módulos
 PROJECT_ROOT = "/opt/airflow/"
 if str(PROJECT_ROOT) not in sys.path:
@@ -83,7 +81,7 @@ def send_completion_email() -> None:
 
     """
     email_sender = "juandavid2931@gmail.com"
-    email_password = "oxyb pxkl hiuy eogr"
+    email_password = "qeor nrif lbqy ujhx"
     email_receiver = "jdravila@bancolombia.com.co"
 
     message = EmailMessage()
@@ -107,7 +105,7 @@ def send_completion_email() -> None:
     dag_id="elt_medallon",
     schedule="0 5 * * *",
     start_date=pendulum.datetime(2025, 10, 18, tz=BOGOTA_TZ),
-    catchup=False,
+    catchup=True,
     tags=["elt", "api"],
 )
 def elt_medallon_dag():
@@ -150,10 +148,9 @@ def elt_medallon_dag():
         mode="poke",
     )
 
-    send_email_task = PythonOperator(
-        task_id="notify_fact_episodes_ready",
-        python_callable=send_completion_email,
-    )
+    @task()
+    def send_email_fact_episodes():
+        return send_completion_email()
 
     # Orquestación
     i = ingest_raw()
@@ -163,8 +160,9 @@ def elt_medallon_dag():
     d_networks = dim_network()
     d_dates = dim_time()
     f_episodes = fact_episodes()
+    notify = send_email_fact_episodes()
 
-    i >> b >> s >> [d_shows, d_networks, d_dates] >> f_episodes >> wait_for_fact_episodes >> send_email_task
+    i >> b >> s >> [d_shows, d_networks, d_dates] >> f_episodes >> wait_for_fact_episodes >> notify
 
 
 # Instanciamos el DAG
