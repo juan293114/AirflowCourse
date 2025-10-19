@@ -149,7 +149,7 @@ def elt_medallon_dag():
     )
 
     @task()
-    def send_email_fact_episodes():
+    def notify_fact_episodes_ready():
         return send_completion_email()
 
     # Orquestación
@@ -160,7 +160,7 @@ def elt_medallon_dag():
     d_networks = dim_network()
     d_dates = dim_time()
     f_episodes = fact_episodes()
-    notify = send_email_fact_episodes()
+    notify = notify_fact_episodes_ready()
 
     i >> b >> s >> [d_shows, d_networks, d_dates] >> f_episodes >> wait_for_fact_episodes >> notify
 
