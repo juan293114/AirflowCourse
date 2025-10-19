@@ -17,6 +17,7 @@ def backfill_demo():
     @task()
     def log_context(**context) -> None:
         """Log timestamps to see each backfilled interval."""
+        print("Context keys:", sorted(context.keys()))
         execution_date = context["logical_date"]
         data_interval_end = context["data_interval_end"]
         print("Execution date:", execution_date.isoformat())
