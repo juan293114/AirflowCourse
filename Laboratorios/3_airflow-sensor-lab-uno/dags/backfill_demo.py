@@ -9,7 +9,7 @@ BOGOTA_TZ = pendulum.timezone("America/Bogota")
 @dag(
     dag_id="backfill_demo",
     schedule="0 8 * * *",  # every day at 08:00
-    start_date=pendulum.datetime(2025, 10, 15, tz=BOGOTA_TZ),
+    start_date=pendulum.datetime(2025, 10, 16, tz=BOGOTA_TZ),
     catchup=True,
     tags=["demo", "catchup"],
 )
@@ -19,9 +19,7 @@ def backfill_demo():
         """Log timestamps to see each backfilled interval."""
         print("Context keys:", sorted(context.keys()))
         execution_date = context["logical_date"]
-        data_interval_end = context["data_interval_end"]
         print("Execution date:", execution_date.isoformat())
-        print("Data interval end:", data_interval_end.isoformat())
 
     log = log_context()
     log
