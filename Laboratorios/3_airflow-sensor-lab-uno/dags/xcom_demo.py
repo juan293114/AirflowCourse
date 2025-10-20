@@ -15,16 +15,19 @@ BOGOTA_TZ = pendulum.timezone("America/Bogota")
 )
 def xcom_demo():
     @task()
-    def producer() -> str:
+    def producer(**context) -> None:
         value = "Hello from producer"
-        print("Pushing value:", value)
-        return value
+        print("Pushing value via xcom_push:", value)
+        context["ti"].xcom_push(key="greeting", value=value)
 
     @task()
-    def consumer(message: str) -> None:
-        print("Pulled value via XCom:", message)
+    def consumer(**context) -> None:
+        message = context["ti"].xcom_pull(task_ids="producer", key="greeting")
+        print("Pulled value via xcom_pull:", message)
 
-    consumer(producer())
+    producer_task = producer()
+    consumer_task = consumer()
+    producer_task >> consumer_task
 
 
 dag = xcom_demo()
