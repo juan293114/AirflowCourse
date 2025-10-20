@@ -1,46 +1,42 @@
-"""Simple example showing a main DAG triggering a downstream DAG (subDAG style)."""
+"""Very small DAG showing the deprecated SubDagOperator in the simplest form."""
 
 import pendulum
-from airflow.decorators import dag, task
+from airflow.models import DAG
 from airflow.operators.empty import EmptyOperator
-from airflow.operators.trigger_dagrun import TriggerDagRunOperator
+from airflow.operators.subdag import SubDagOperator
 
-BOGOTA_TZ = pendulum.timezone("America/Bogota")
+# Configuración básica compartida por el DAG padre y el subdag.
+START_DATE = pendulum.datetime(2025, 10, 1, tz="America/Bogota")
+DEFAULT_ARGS = {"start_date": START_DATE}
 
-
-@dag(
-    dag_id="child_subdag",
+# 1) Definimos el subdag explícitamente con la API clásica.
+subdag = DAG(
+    dag_id="legacy_subdag_demo.deprecated_subdag",
     schedule=None,
-    start_date=pendulum.datetime(2025, 10, 1, tz=BOGOTA_TZ),
+    default_args=DEFAULT_ARGS,
     catchup=False,
     tags=["demo", "subdag"],
 )
-def child_subdag():
-    EmptyOperator(task_id="child_task")
 
+with subdag:
+    subtask_a = EmptyOperator(task_id="subtask_a")
+    subtask_b = EmptyOperator(task_id="subtask_b")
+    subtask_a >> subtask_b
 
-dag_child = child_subdag()
-
-
-@dag(
-    dag_id="parent_subdag",
+# 2) Definimos el DAG principal e insertamos el SubDagOperator.
+dag = DAG(
+    dag_id="legacy_subdag_demo",
     schedule=None,
-    start_date=pendulum.datetime(2025, 10, 1, tz=BOGOTA_TZ),
+    default_args=DEFAULT_ARGS,
     catchup=False,
     tags=["demo", "subdag"],
 )
-def parent_subdag():
+
+with dag:
     start = EmptyOperator(task_id="start")
+    legacy_subdag = SubDagOperator(task_id="deprecated_subdag", subdag=subdag)
+    end = EmptyOperator(task_id="end")
 
-    run_child = TriggerDagRunOperator(
-        task_id="trigger_child_dag",
-        trigger_dag_id="child_subdag",
-        wait_for_completion=True,
-    )
-
-    finish = EmptyOperator(task_id="finish")
-
-    start >> run_child >> finish
+    start >> legacy_subdag >> end
 
 
-dag_parent = parent_subdag()
