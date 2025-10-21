@@ -7,7 +7,6 @@ from pathlib import Path
 
 import pendulum
 from airflow.decorators import dag, task
-from airflow.operators.python import PythonOperator
 from airflow.sensors.filesystem import FileSensor
 
 # Ajuste del path para importar los módulos
