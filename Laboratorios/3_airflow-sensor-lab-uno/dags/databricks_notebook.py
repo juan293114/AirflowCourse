@@ -55,7 +55,7 @@ def databricks_job_dag():
         },
     )
 
-    # 2) Tarea de transformación a BRONZE que depende de la 1)
+    # 2) Tarea de transformación a SILVER que depende de la 1)
     transform_to_silver = DatabricksSubmitRunOperator(
         task_id="transform_to_silver",
         databricks_conn_id=DATABRICKS_CONN_ID,
@@ -75,6 +75,6 @@ def databricks_job_dag():
     )
 
     # Encadenamiento: primero ingesta, luego transformación
-    ingest_to_raw >> transform_to_bronze
+    ingest_to_raw >> transform_to_bronze >> transform_to_silver
 
 databricks_job_dag()
