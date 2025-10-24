@@ -405,7 +405,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -589,7 +589,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 60,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -675,7 +675,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -760,7 +760,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -850,7 +850,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 87,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1215,7 +1215,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -1560,7 +1560,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1650,7 +1650,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1738,7 +1738,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1826,7 +1826,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1915,7 +1915,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -3297,7 +3297,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 467,
@@ -3644,7 +3644,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 566,
@@ -4011,7 +4011,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4103,7 +4103,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4367,7 +4367,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -4541,7 +4541,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5143,7 +5143,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5590,7 +5590,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -5768,7 +5768,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 56,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -5952,7 +5952,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 254,
@@ -6121,7 +6121,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 347,
@@ -6209,7 +6209,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -6228,18 +6228,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/583/1458080.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1760569644,
+        "updated": 1761175168,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3270630",
-            "name": "The Straka Strikes"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3270631",
-            "name": "TBA"
+            "name": "Outward Past Beyond"
           }
         }
       }

@@ -588,7 +588,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 85,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -611,14 +611,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/299/748854.jpg"
         },
         "summary": "<p>The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.<br /><br />Three hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen's will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father's birth, the mother and son were treated coldly in Dingwu's palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.</p>",
-        "updated": 1751936012,
+        "updated": 1761129062,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/54033"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3274839",
-            "name": "Episode 589"
+            "href": "https://api.tvmaze.com/episodes/3404745",
+            "name": "Episode 593"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3404746",
+            "name": "Episode 594"
           }
         }
       }
@@ -678,7 +682,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 60,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -854,7 +858,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1037,7 +1041,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1127,7 +1131,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1215,7 +1219,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 88,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1396,7 +1400,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2824,7 +2828,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 19,
         "network": null,
         "webChannel": {
           "id": 542,
@@ -2916,7 +2920,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3008,7 +3012,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3294,7 +3298,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -3383,7 +3387,7 @@
         "rating": {
           "average": null
         },
-        "weight": 28,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3474,7 +3478,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -3560,7 +3564,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4072,7 +4076,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4158,7 +4162,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 9,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4244,7 +4248,7 @@
         "rating": {
           "average": 5.2
         },
-        "weight": 85,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -4324,7 +4328,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4832,7 +4836,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -4914,7 +4918,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 87,
         "network": null,
         "webChannel": {
           "id": 331,
@@ -4998,7 +5002,7 @@
         "rating": {
           "average": null
         },
-        "weight": 6,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 699,
@@ -5080,7 +5084,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -5171,7 +5175,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 86,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 447,
@@ -5505,7 +5509,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5681,7 +5685,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5700,18 +5704,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/583/1458080.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1760569644,
+        "updated": 1761175168,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3270630",
-            "name": "The Straka Strikes"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3270631",
-            "name": "TBA"
+            "name": "Outward Past Beyond"
           }
         }
       }
@@ -5768,7 +5768,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 53,
+        "weight": 48,
         "network": {
           "id": 2,
           "name": "CBS",
@@ -5861,7 +5861,7 @@
         "rating": {
           "average": null
         },
-        "weight": 15,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -5950,7 +5950,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 99,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 547,
@@ -5969,11 +5969,11 @@
           "imdb": "tt8270592"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/541/1354487.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485577.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485577.jpg"
         },
         "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-        "updated": 1740097954,
+        "updated": 1761203800,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41532"
@@ -5981,6 +5981,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3075352",
             "name": "Dangerous Liaisons"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3405862",
+            "name": "Secrets and Lies"
           }
         }
       }
@@ -6039,7 +6043,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 99,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 547,
@@ -6058,11 +6062,11 @@
           "imdb": "tt8270592"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/541/1354487.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485577.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485577.jpg"
         },
         "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-        "updated": 1740097954,
+        "updated": 1761203800,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41532"
@@ -6070,6 +6074,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3075352",
             "name": "Dangerous Liaisons"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3405862",
+            "name": "Secrets and Lies"
           }
         }
       }
@@ -6128,7 +6136,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 99,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 547,
@@ -6147,11 +6155,11 @@
           "imdb": "tt8270592"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/541/1354487.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485577.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485577.jpg"
         },
         "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-        "updated": 1740097954,
+        "updated": 1761203800,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41532"
@@ -6159,6 +6167,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3075352",
             "name": "Dangerous Liaisons"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3405862",
+            "name": "Secrets and Lies"
           }
         }
       }
@@ -6217,7 +6229,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 99,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 547,
@@ -6236,11 +6248,11 @@
           "imdb": "tt8270592"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/541/1354487.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485577.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485577.jpg"
         },
         "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-        "updated": 1740097954,
+        "updated": 1761203800,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41532"
@@ -6248,6 +6260,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3075352",
             "name": "Dangerous Liaisons"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3405862",
+            "name": "Secrets and Lies"
           }
         }
       }
@@ -6306,7 +6322,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 99,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 547,
@@ -6325,11 +6341,11 @@
           "imdb": "tt8270592"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/541/1354487.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485577.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485577.jpg"
         },
         "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-        "updated": 1740097954,
+        "updated": 1761203800,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41532"
@@ -6337,6 +6353,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3075352",
             "name": "Dangerous Liaisons"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3405862",
+            "name": "Secrets and Lies"
           }
         }
       }
@@ -6395,7 +6415,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 99,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 547,
@@ -6414,11 +6434,11 @@
           "imdb": "tt8270592"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/541/1354487.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485577.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485577.jpg"
         },
         "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-        "updated": 1740097954,
+        "updated": 1761203800,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41532"
@@ -6426,6 +6446,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3075352",
             "name": "Dangerous Liaisons"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3405862",
+            "name": "Secrets and Lies"
           }
         }
       }

@@ -320,7 +320,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 569,
@@ -404,7 +404,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -488,7 +488,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -669,7 +669,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 85,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -692,14 +692,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/299/748854.jpg"
         },
         "summary": "<p>The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.<br /><br />Three hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen's will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father's birth, the mother and son were treated coldly in Dingwu's palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.</p>",
-        "updated": 1751936012,
+        "updated": 1761129062,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/54033"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3274839",
-            "name": "Episode 589"
+            "href": "https://api.tvmaze.com/episodes/3404745",
+            "name": "Episode 593"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3404746",
+            "name": "Episode 594"
           }
         }
       }
@@ -938,7 +942,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1023,7 +1027,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1489,7 +1493,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1579,7 +1583,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1668,7 +1672,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1845,7 +1849,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -3226,7 +3230,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 15,
         "network": {
           "id": 514,
           "name": "\u0422\u0412-3",
@@ -3341,18 +3345,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15519.jpg"
         },
         "summary": "<p>Set in the East End of London, the show focuses on the tensions between love and family with stories ranging from hard-hitting social issues, to personal, human tragedies. And there's plenty of funny moments too.\u00a0<br /><br />Classic characters old and new across thousands of episodes have shared a drink in The Queen Vic, shed tears of despair or joy, sat on Arthur's bench in the Square... and at some point or other they probably crossed paths with Ian Beale.</p>",
-        "updated": 1760873030,
+        "updated": 1761169537,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/793"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3394946",
-            "name": "21/10/2025"
+            "href": "https://api.tvmaze.com/episodes/3394948",
+            "name": "23/10/2025"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3394947",
-            "name": "22/10/2025"
+            "href": "https://api.tvmaze.com/episodes/3405685",
+            "name": "27/10/2025"
           }
         }
       }
@@ -3591,7 +3595,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 75,
         "network": {
           "id": 790,
           "name": "\u041f\u044f\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -3614,18 +3618,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/458/1147412.jpg"
         },
         "summary": "<p>A new government body is created to resolve cases of X-file and high crime. The Federal Expert Service brings together specialists in various fields: software development, ballistics, forensic medicine and detectives.</p>",
-        "updated": 1760633307,
+        "updated": 1761161463,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/43648"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397855",
-            "name": "\u0412\u044b\u043d\u043e\u0441 \u043c\u043e\u0437\u0433\u0430 \u043f\u043e \u0447\u0430\u0441\u0442\u044f\u043c"
+            "href": "https://api.tvmaze.com/episodes/3397857",
+            "name": "\u0411\u0430\u0431\u0443\u0448\u043a\u0430, \u043d\u0443\u0436\u043d\u0430\u044f \u0432\u0441\u0435\u043c"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397856",
-            "name": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u0436\u0430\u0441"
+            "href": "https://api.tvmaze.com/episodes/3397858",
+            "name": "\u0427\u0443\u0436\u0430\u044f \u043a\u0440\u043e\u0432\u044c"
           }
         }
       }
@@ -3881,7 +3885,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4738,7 +4742,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4830,7 +4834,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -5243,12 +5247,12 @@
             "href": "https://api.tvmaze.com/shows/5420"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3377228",
-            "name": "Episode 9333"
+            "href": "https://api.tvmaze.com/episodes/3377230",
+            "name": "Episode 9335"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3377229",
-            "name": "Episode 9334"
+            "href": "https://api.tvmaze.com/episodes/3377231",
+            "name": "Episode 9336"
           }
         }
       }
@@ -5408,14 +5412,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115876.jpg"
         },
         "summary": "<p>Trailers that tell you the TRUTH about your favorite movies and TV shows: Honest Trailers. These are the hilarious trailers the producers don't want you to see...</p>",
-        "updated": 1760491559,
+        "updated": 1761087291,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13392"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397567",
-            "name": "There Will Be Blood"
+            "href": "https://api.tvmaze.com/episodes/3404138",
+            "name": "The Thing"
           }
         }
       }
@@ -5955,7 +5959,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6153,18 +6157,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335458.jpg"
         },
         "summary": "<p>Who are the smartest celebrities that Norway has to offer? Norwegian celebs meet for a very hard and entertaining educational battle, led by Henriette Steenstrup and Jon Almaas.</p>",
-        "updated": 1761063875,
+        "updated": 1761242905,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/49859"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3349330",
-            "name": "Br\u00f8dhue og baduttspringeren"
+            "href": "https://api.tvmaze.com/episodes/3349333",
+            "name": "Uferdig trojansk hest"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3349331",
-            "name": "Nesa lyver aldri"
+            "href": "https://api.tvmaze.com/episodes/3349334",
+            "name": "Supergirls"
           }
         }
       }
@@ -6734,7 +6738,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6819,7 +6823,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6899,7 +6903,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -6984,7 +6988,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7069,7 +7073,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7154,7 +7158,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7239,7 +7243,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7324,7 +7328,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7409,7 +7413,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7494,7 +7498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -8720,7 +8724,7 @@
         "rating": {
           "average": null
         },
-        "weight": 0,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9059,7 +9063,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 552,
@@ -9298,7 +9302,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9317,14 +9321,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1760871674,
+        "updated": 1761112215,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3401050",
-            "name": "#2396 - Andrew Schulz"
+            "href": "https://api.tvmaze.com/episodes/3404209",
+            "name": "#2397 - Richard Lindzen & William Happer"
           }
         }
       }
@@ -9380,7 +9384,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9399,14 +9403,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/575/1437529.jpg"
         },
         "summary": null,
-        "updated": 1758694451,
+        "updated": 1761111883,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/85459"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3376062",
-            "name": "Woodz, a real man who didn't even eat dinner as soon as he was discharged from the military and came out of a jewelry box|Hong Seokcheon's Jewel Box Season 4 EP.15"
+            "href": "https://api.tvmaze.com/episodes/3404203",
+            "name": "Gays' Guardian God EXO Suho\" Came to Protect Ban Seok-cheon I Hong Seok-cheon's Jewel Box S4 EP17"
           }
         }
       }
@@ -9460,7 +9464,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9643,7 +9647,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 86,
+        "weight": 89,
         "network": {
           "id": 36,
           "name": "CBC",
@@ -9666,18 +9670,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485008.jpg"
         },
         "summary": "<p>Comedian and <i>Mr. D</i> star Gerry Dee hosts <b>Family Feud Canada</b>. Gerry invites families from across Canada to compete to guess the most popular answers to fun, family-friendly survey questions.</p>",
-        "updated": 1761079471,
+        "updated": 1761166224,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42893"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3404078",
-            "name": "Emojis 101: Eggplant Edition"
+            "href": "https://api.tvmaze.com/episodes/3404081",
+            "name": "TBA"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3404079",
-            "name": "Very Dee-Lighted to meet Gerry!"
+            "href": "https://api.tvmaze.com/episodes/3404082",
+            "name": "TBA"
           }
         }
       }
@@ -9820,7 +9824,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 70,
         "network": {
           "id": 1,
           "name": "NBC",
@@ -9852,18 +9856,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
         },
         "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-        "updated": 1761052142,
+        "updated": 1761225888,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72466"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397784",
-            "name": "Billie Jean King, Abby Wambach, Julie Foudy, Ethan Hawke, Angela Kinsey, Josh Snyder"
+            "href": "https://api.tvmaze.com/episodes/3397786",
+            "name": "Laura Benanti, Misty Belles, Judy Joo"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397785",
-            "name": "Kristen Bell, Justine Lupe, Kathryn Bigelow, Brian Lewis"
+            "href": "https://api.tvmaze.com/episodes/3397787",
+            "name": "Dr. Marnie Nussbaum"
           }
         }
       }
@@ -9951,18 +9955,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298651.jpg"
         },
         "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-        "updated": 1760742815,
+        "updated": 1761264078,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/812"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382047",
-            "name": "Ep. #15231"
+            "href": "https://api.tvmaze.com/episodes/3382049",
+            "name": "Ep. #15233"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382048",
-            "name": "Ep. #15232"
+            "href": "https://api.tvmaze.com/episodes/3382050",
+            "name": "Ep. #15234"
           }
         }
       }
@@ -10019,7 +10023,7 @@
         "rating": {
           "average": 3
         },
-        "weight": 85,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 213,
@@ -10192,7 +10196,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 11,
@@ -10215,18 +10219,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
         },
         "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-        "updated": 1761064736,
+        "updated": 1761239500,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/73192"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397805",
-            "name": "Episode 209"
+            "href": "https://api.tvmaze.com/episodes/3397807",
+            "name": "Episode 211"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397806",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3397808",
+            "name": "Episode 212"
           }
         }
       }
@@ -10285,7 +10289,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 460,
@@ -10373,7 +10377,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 619,
@@ -10798,7 +10802,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -10883,7 +10887,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -10912,12 +10916,12 @@
             "href": "https://api.tvmaze.com/shows/76217"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382649",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3382651",
+            "name": "Episode 212"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382650",
-            "name": "Episode 211"
+            "href": "https://api.tvmaze.com/episodes/3382652",
+            "name": "Episode 213"
           }
         }
       }
@@ -11011,18 +11015,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/586/1465552.jpg"
         },
         "summary": "<p><b>GMA3</b> is a news, health, lifestyle and shopping program.</p>",
-        "updated": 1761066489,
+        "updated": 1761239756,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72930"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397810",
-            "name": "Matthew Pellicano Jr."
+            "href": "https://api.tvmaze.com/episodes/3397812",
+            "name": "Garcelle Beauvais, Rachel Beller, Caissie Levy, Joshua Henry, Brandon Uranowitz"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397811",
-            "name": "Taye Diggs"
+            "href": "https://api.tvmaze.com/episodes/3397813",
+            "name": "Odessa Young, Toni Chapman, Kathy Buccio"
           }
         }
       }
@@ -11114,12 +11118,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336172",
-            "name": "Aflevering 7145"
+            "href": "https://api.tvmaze.com/episodes/3336174",
+            "name": "Aflevering 7147"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336173",
-            "name": "Aflevering 7146"
+            "href": "https://api.tvmaze.com/episodes/3336175",
+            "name": "Aflevering 7148"
           }
         }
       }
@@ -11178,7 +11182,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": {
           "id": 1328,
           "name": "TV Nova",
@@ -11275,7 +11279,7 @@
         "rating": {
           "average": null
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 52,
@@ -11304,12 +11308,12 @@
             "href": "https://api.tvmaze.com/shows/4175"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3389257",
-            "name": "Tue 21 Oct 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3389258",
             "name": "Wed 22 Oct 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3389259",
+            "name": "Mon 27 Oct 2025"
           }
         }
       }
@@ -11832,7 +11836,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -11851,18 +11855,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/583/1458080.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1760569644,
+        "updated": 1761175168,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3270630",
-            "name": "The Straka Strikes"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3270631",
-            "name": "TBA"
+            "name": "Outward Past Beyond"
           }
         }
       }
@@ -11919,7 +11919,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -12091,7 +12091,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 94,
+        "weight": 96,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -12110,22 +12110,22 @@
           "imdb": "tt1601141"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/537/1344592.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1344592.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485132.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485132.jpg"
         },
         "summary": "<p>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on <b>WWE NXT</b><i>,</i> a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</p>",
-        "updated": 1760486696,
+        "updated": 1761128672,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3256357",
-            "name": "Main Event: NXT Women's Championship #1 contender's battle royal"
+            "href": "https://api.tvmaze.com/episodes/3256358",
+            "name": "Ricky Saints & Trick Williams contract signing for the NXT Championship"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3256358",
-            "name": "Episode 42"
+            "href": "https://api.tvmaze.com/episodes/3256359",
+            "name": "Episode 43"
           }
         }
       }
@@ -12934,7 +12934,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 50,
         "network": {
           "id": 185,
           "name": "Fox News Channel",
@@ -12972,12 +12972,12 @@
             "href": "https://api.tvmaze.com/shows/76581"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385146",
-            "name": "Episode 204"
+            "href": "https://api.tvmaze.com/episodes/3385148",
+            "name": "Episode 206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385147",
-            "name": "Episode 205"
+            "href": "https://api.tvmaze.com/episodes/3385149",
+            "name": "Episode 207"
           }
         }
       }
@@ -13071,18 +13071,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335993.jpg"
         },
         "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-        "updated": 1761007877,
+        "updated": 1761258072,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/718"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397062",
-            "name": "Oscar Isaac, Malala Yousafzai, Audrey Hobert"
+            "href": "https://api.tvmaze.com/episodes/3398726",
+            "name": "Adam Brody, Gaten Matarazzo, Mark Messier, Courtney Barnett"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3398596",
-            "name": "Jacob Elordi, Charlie Puth, Allen Iverson"
+            "href": "https://api.tvmaze.com/episodes/3400674",
+            "name": "Kristen Bell, Dave Franco, Jay Jurden"
           }
         }
       }

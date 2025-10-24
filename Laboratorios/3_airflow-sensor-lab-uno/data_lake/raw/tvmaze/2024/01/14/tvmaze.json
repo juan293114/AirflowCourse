@@ -930,7 +930,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 85,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -953,14 +953,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/299/748854.jpg"
         },
         "summary": "<p>The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.<br /><br />Three hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen's will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father's birth, the mother and son were treated coldly in Dingwu's palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.</p>",
-        "updated": 1751936012,
+        "updated": 1761129062,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/54033"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3274839",
-            "name": "Episode 589"
+            "href": "https://api.tvmaze.com/episodes/3404745",
+            "name": "Episode 593"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3404746",
+            "name": "Episode 594"
           }
         }
       }
@@ -1020,7 +1024,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 60,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1196,7 +1200,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1742,7 +1746,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -1832,7 +1836,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1922,7 +1926,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -2010,7 +2014,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 88,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2191,7 +2195,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -3372,7 +3376,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -3981,7 +3985,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 64,
         "network": {
           "id": 308,
           "name": "\u0422\u041d\u0422",
@@ -4004,7 +4008,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/581/1453837.jpg"
         },
         "summary": "<p>Every week, Pavel, together with invited guests - stars and the most ordinary people - will sum up the results of the outgoing week and do it in his signature humorous manner in the best traditions of TNT. In each issue, viewers will learn about the most interesting events that have taken place in the world, as well as hear opinions from stars and presenters.</p><p>Volya Show promises to amaze with bold experiments and fresh formats. Every Sunday, viewers will be treated to a real attraction of daring humor on the topic of the day, interactive with the participation of top stars, absurd contests, unexpected musical experiences and just a lot of fun with Pavel Volya and his guests.</p>",
-        "updated": 1760899972,
+        "updated": 1761087226,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/67886"
@@ -4168,7 +4172,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4258,7 +4262,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -4522,7 +4526,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 19,
         "network": null,
         "webChannel": {
           "id": 542,
@@ -4888,7 +4892,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -4991,14 +4995,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1761070604,
+        "updated": 1761240789,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3403979",
-            "name": "\u041d\u043e\u0432\u0430\u044f \u043f\u043e\u043f\u044b\u0442\u043a\u0430: \u0447\u0435\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u0442\u044c \u043e\u0442 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u041f\u0443\u0442\u0438\u043d\u0430 \u0438 \u0422\u0440\u0430\u043c\u043f\u0430 \u0432 \u0412\u0435\u043d\u0433\u0440\u0438\u0438?"
+            "href": "https://api.tvmaze.com/episodes/3406292",
+            "name": "\u041c\u0438\u0433\u0440\u0430\u043d\u0442\u044b \u0432 2025 \u0433\u043e\u0434\u0443: \u043d\u043e\u0432\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f \u0438 \u0443\u0436\u0435\u0441\u0442\u043e\u0447\u0435\u043d\u0438\u044f"
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3372020",
@@ -5061,7 +5065,7 @@
         "rating": {
           "average": null
         },
-        "weight": 28,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5152,7 +5156,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -5485,7 +5489,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 9,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6427,7 +6431,7 @@
         "rating": {
           "average": null
         },
-        "weight": 6,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 699,
@@ -6509,7 +6513,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 550,
@@ -7032,7 +7036,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -7204,7 +7208,7 @@
         "rating": {
           "average": null
         },
-        "weight": 15,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 190,

@@ -139,7 +139,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -323,7 +323,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 60,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -409,7 +409,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -494,7 +494,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -584,7 +584,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 87,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -951,7 +951,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -1293,7 +1293,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1383,7 +1383,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -1471,7 +1471,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1559,7 +1559,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1648,7 +1648,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -2737,7 +2737,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2825,7 +2825,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3006,7 +3006,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 467,
@@ -3181,7 +3181,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 566,
@@ -3813,7 +3813,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -3987,7 +3987,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4067,7 +4067,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5983,7 +5983,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 56,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -6431,7 +6431,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 347,
@@ -6602,7 +6602,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 580,

@@ -226,7 +226,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -410,7 +410,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 60,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -496,7 +496,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -581,7 +581,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -671,7 +671,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 87,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -768,7 +768,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -861,7 +861,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1038,7 +1038,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -1290,7 +1290,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1378,7 +1378,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1466,7 +1466,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1554,7 +1554,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1642,7 +1642,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1730,7 +1730,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1818,7 +1818,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1906,7 +1906,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1995,7 +1995,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -2083,7 +2083,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2435,7 +2435,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3375,7 +3375,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 467,
@@ -3902,7 +3902,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 566,
@@ -3994,7 +3994,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -4894,7 +4894,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -4984,7 +4984,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5472,7 +5472,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5624,7 +5624,7 @@
         "genres": [],
         "status": "Running",
         "runtime": null,
-        "averageRuntime": 52,
+        "averageRuntime": 53,
         "premiered": "2022-11-02",
         "ended": null,
         "officialSite": "https://www.youtube.com/@jolvanez/featured",
@@ -5641,7 +5641,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5660,18 +5660,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/478/1197132.jpg"
         },
         "summary": null,
-        "updated": 1761077554,
+        "updated": 1761211404,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/71524"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397450",
-            "name": "A Hatalom LUXUS\u00c1T nem lehet ELENGEDNI"
+            "href": "https://api.tvmaze.com/episodes/3397452",
+            "name": "A KAPITALIZMUS miatt nincs CSAJOD"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397451",
-            "name": "37. r\u00e9sz"
+            "href": "https://api.tvmaze.com/episodes/3397453",
+            "name": "39. r\u00e9sz"
           }
         }
       }
@@ -5905,7 +5905,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5995,7 +5995,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7029,7 +7029,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 56,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -7378,7 +7378,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -7464,7 +7464,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -7739,7 +7739,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -8004,7 +8004,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 347,
@@ -8091,7 +8091,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -8266,7 +8266,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 580,

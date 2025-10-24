@@ -2209,7 +2209,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2293,7 +2293,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2377,7 +2377,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2461,7 +2461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2545,7 +2545,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2629,7 +2629,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2713,7 +2713,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2797,7 +2797,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -2881,7 +2881,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -2965,7 +2965,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -4324,7 +4324,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4414,7 +4414,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 68,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4507,7 +4507,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -5233,7 +5233,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -5323,7 +5323,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -5413,7 +5413,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -5503,7 +5503,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -6435,18 +6435,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15519.jpg"
         },
         "summary": "<p>Set in the East End of London, the show focuses on the tensions between love and family with stories ranging from hard-hitting social issues, to personal, human tragedies. And there's plenty of funny moments too.\u00a0<br /><br />Classic characters old and new across thousands of episodes have shared a drink in The Queen Vic, shed tears of despair or joy, sat on Arthur's bench in the Square... and at some point or other they probably crossed paths with Ian Beale.</p>",
-        "updated": 1760873030,
+        "updated": 1761169537,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/793"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3394946",
-            "name": "21/10/2025"
+            "href": "https://api.tvmaze.com/episodes/3394948",
+            "name": "23/10/2025"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3394947",
-            "name": "22/10/2025"
+            "href": "https://api.tvmaze.com/episodes/3405685",
+            "name": "27/10/2025"
           }
         }
       }
@@ -6500,7 +6500,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -6584,7 +6584,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -7969,7 +7969,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 15,
         "network": null,
         "webChannel": {
           "id": 540,
@@ -9087,7 +9087,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -9179,7 +9179,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -9592,12 +9592,12 @@
             "href": "https://api.tvmaze.com/shows/5420"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3377228",
-            "name": "Episode 9333"
+            "href": "https://api.tvmaze.com/episodes/3377230",
+            "name": "Episode 9335"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3377229",
-            "name": "Episode 9334"
+            "href": "https://api.tvmaze.com/episodes/3377231",
+            "name": "Episode 9336"
           }
         }
       }
@@ -9655,7 +9655,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 46,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9903,7 +9903,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -10069,7 +10069,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -10245,7 +10245,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10330,7 +10330,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10415,7 +10415,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10500,7 +10500,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10585,7 +10585,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10670,7 +10670,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10755,7 +10755,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10840,7 +10840,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -10918,7 +10918,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -11455,7 +11455,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -12715,7 +12715,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -13050,7 +13050,7 @@
         "rating": {
           "average": null
         },
-        "weight": 0,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -13215,7 +13215,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -13299,7 +13299,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 552,
@@ -20050,7 +20050,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 86,
+        "weight": 89,
         "network": {
           "id": 36,
           "name": "CBC",
@@ -20073,18 +20073,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485008.jpg"
         },
         "summary": "<p>Comedian and <i>Mr. D</i> star Gerry Dee hosts <b>Family Feud Canada</b>. Gerry invites families from across Canada to compete to guess the most popular answers to fun, family-friendly survey questions.</p>",
-        "updated": 1761079471,
+        "updated": 1761166224,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42893"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3404078",
-            "name": "Emojis 101: Eggplant Edition"
+            "href": "https://api.tvmaze.com/episodes/3404081",
+            "name": "TBA"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3404079",
-            "name": "Very Dee-Lighted to meet Gerry!"
+            "href": "https://api.tvmaze.com/episodes/3404082",
+            "name": "TBA"
           }
         }
       }
@@ -20231,7 +20231,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -20323,7 +20323,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -20526,18 +20526,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298651.jpg"
         },
         "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-        "updated": 1760742815,
+        "updated": 1761264078,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/812"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382047",
-            "name": "Ep. #15231"
+            "href": "https://api.tvmaze.com/episodes/3382049",
+            "name": "Ep. #15233"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382048",
-            "name": "Ep. #15232"
+            "href": "https://api.tvmaze.com/episodes/3382050",
+            "name": "Ep. #15234"
           }
         }
       }
@@ -20764,7 +20764,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 11,
@@ -20787,18 +20787,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
         },
         "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-        "updated": 1761064736,
+        "updated": 1761239500,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/73192"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397805",
-            "name": "Episode 209"
+            "href": "https://api.tvmaze.com/episodes/3397807",
+            "name": "Episode 211"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397806",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3397808",
+            "name": "Episode 212"
           }
         }
       }
@@ -21029,7 +21029,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -21114,7 +21114,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -21143,12 +21143,12 @@
             "href": "https://api.tvmaze.com/shows/76217"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382649",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3382651",
+            "name": "Episode 212"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382650",
-            "name": "Episode 211"
+            "href": "https://api.tvmaze.com/episodes/3382652",
+            "name": "Episode 213"
           }
         }
       }
@@ -21202,7 +21202,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21286,7 +21286,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21370,7 +21370,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21454,7 +21454,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21538,7 +21538,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21622,7 +21622,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21706,7 +21706,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21790,7 +21790,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21874,7 +21874,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -21958,7 +21958,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -22042,7 +22042,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -22126,7 +22126,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -22210,7 +22210,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -22294,7 +22294,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -22378,7 +22378,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 80,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -22500,12 +22500,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336172",
-            "name": "Aflevering 7145"
+            "href": "https://api.tvmaze.com/episodes/3336174",
+            "name": "Aflevering 7147"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336173",
-            "name": "Aflevering 7146"
+            "href": "https://api.tvmaze.com/episodes/3336175",
+            "name": "Aflevering 7148"
           }
         }
       }
@@ -22931,7 +22931,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1761013953,
+        "updated": 1761202656,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"

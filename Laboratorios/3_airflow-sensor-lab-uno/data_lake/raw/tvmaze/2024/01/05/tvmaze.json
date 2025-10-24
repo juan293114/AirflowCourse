@@ -228,7 +228,7 @@
         "rating": {
           "average": null
         },
-        "weight": 6,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -317,7 +317,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 9,
         "network": null,
         "webChannel": {
           "id": 569,
@@ -486,7 +486,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 245,
@@ -692,12 +692,12 @@
             "href": "https://api.tvmaze.com/shows/54894"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3387290",
-            "name": "Episode 237"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3387291",
             "name": "Episode 238"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3387292",
+            "name": "Episode 239"
           }
         }
       }
@@ -843,7 +843,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -933,7 +933,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 68,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1026,7 +1026,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1114,7 +1114,7 @@
         "rating": {
           "average": null
         },
-        "weight": 81,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -1470,7 +1470,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 454,
@@ -1493,14 +1493,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/385/963778.jpg"
         },
         "summary": "<p>Eight men and women with their own respective stories gathers in a house to reunite with their past lovers and start meeting with new people. Without revealing who their ex is, they will spend days in the house together doing diverse missions. The hosts will watch them from the studio reacting to how the housemates act in various situations. Will they be able to find new love there? Or can ex-couples reunite?</p>",
-        "updated": 1760594662,
+        "updated": 1761112751,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/59642"
           },
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3398656",
-            "name": "Noisy Night"
+            "name": "Restless Night"
           }
         }
       }
@@ -1554,7 +1554,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 454,
@@ -1577,14 +1577,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/385/963778.jpg"
         },
         "summary": "<p>Eight men and women with their own respective stories gathers in a house to reunite with their past lovers and start meeting with new people. Without revealing who their ex is, they will spend days in the house together doing diverse missions. The hosts will watch them from the studio reacting to how the housemates act in various situations. Will they be able to find new love there? Or can ex-couples reunite?</p>",
-        "updated": 1760594662,
+        "updated": 1761112751,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/59642"
           },
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3398656",
-            "name": "Noisy Night"
+            "name": "Restless Night"
           }
         }
       }
@@ -1736,7 +1736,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 454,
@@ -1827,7 +1827,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 454,
@@ -1918,7 +1918,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 454,
@@ -2009,7 +2009,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 87,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 454,
@@ -2449,7 +2449,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -2539,7 +2539,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 226,
@@ -2628,7 +2628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -3180,7 +3180,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -3621,7 +3621,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 467,
@@ -3801,7 +3801,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 15,
         "network": {
           "id": 514,
           "name": "\u0422\u0412-3",
@@ -4771,7 +4771,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -4870,7 +4870,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -4969,7 +4969,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -5068,7 +5068,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -5167,7 +5167,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -5266,7 +5266,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -5365,7 +5365,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -5464,7 +5464,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 89,
         "network": {
           "id": 12,
           "name": "BBC One",
@@ -5649,7 +5649,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 439,
@@ -6023,7 +6023,7 @@
         "rating": {
           "average": null
         },
-        "weight": 69,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -6109,7 +6109,7 @@
         "rating": {
           "average": null
         },
-        "weight": 69,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -6283,7 +6283,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 410,
@@ -6367,7 +6367,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 410,
@@ -6451,7 +6451,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 410,
@@ -6810,7 +6810,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -6902,7 +6902,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -7090,7 +7090,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7171,7 +7171,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7256,7 +7256,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 89,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -7341,7 +7341,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 89,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -7426,7 +7426,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 89,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -7764,7 +7764,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 440,
@@ -8356,7 +8356,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 91,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -8441,7 +8441,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 91,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -8526,7 +8526,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 91,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -9011,7 +9011,7 @@
         "rating": {
           "average": 5.5
         },
-        "weight": 41,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -9357,7 +9357,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 72,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 216,
@@ -9695,7 +9695,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -9867,7 +9867,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -9950,7 +9950,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -10030,7 +10030,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10114,7 +10114,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10198,7 +10198,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10282,7 +10282,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10366,7 +10366,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10450,7 +10450,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10534,7 +10534,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 164,
@@ -10623,7 +10623,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 22,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -10706,7 +10706,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -10789,7 +10789,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -11685,7 +11685,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 552,
@@ -12186,7 +12186,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -12274,7 +12274,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 70,
         "network": {
           "id": 1,
           "name": "NBC",
@@ -12306,18 +12306,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
         },
         "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-        "updated": 1761052142,
+        "updated": 1761225888,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72466"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397784",
-            "name": "Billie Jean King, Abby Wambach, Julie Foudy, Ethan Hawke, Angela Kinsey, Josh Snyder"
+            "href": "https://api.tvmaze.com/episodes/3397786",
+            "name": "Laura Benanti, Misty Belles, Judy Joo"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397785",
-            "name": "Kristen Bell, Justine Lupe, Kathryn Bigelow, Brian Lewis"
+            "href": "https://api.tvmaze.com/episodes/3397787",
+            "name": "Dr. Marnie Nussbaum"
           }
         }
       }
@@ -12544,7 +12544,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 464,
@@ -12666,18 +12666,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298651.jpg"
         },
         "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-        "updated": 1760742815,
+        "updated": 1761264078,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/812"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382047",
-            "name": "Ep. #15231"
+            "href": "https://api.tvmaze.com/episodes/3382049",
+            "name": "Ep. #15233"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382048",
-            "name": "Ep. #15232"
+            "href": "https://api.tvmaze.com/episodes/3382050",
+            "name": "Ep. #15234"
           }
         }
       }
@@ -12819,7 +12819,7 @@
           ]
         },
         "rating": {
-          "average": 1
+          "average": 1.8
         },
         "weight": 35,
         "network": null,
@@ -12905,7 +12905,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 11,
@@ -12928,18 +12928,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
         },
         "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-        "updated": 1761064736,
+        "updated": 1761239500,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/73192"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397805",
-            "name": "Episode 209"
+            "href": "https://api.tvmaze.com/episodes/3397807",
+            "name": "Episode 211"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397806",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3397808",
+            "name": "Episode 212"
           }
         }
       }
@@ -12993,7 +12993,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -13077,7 +13077,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 619,
@@ -13506,7 +13506,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -13591,7 +13591,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -13620,12 +13620,12 @@
             "href": "https://api.tvmaze.com/shows/76217"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382649",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3382651",
+            "name": "Episode 212"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382650",
-            "name": "Episode 211"
+            "href": "https://api.tvmaze.com/episodes/3382652",
+            "name": "Episode 213"
           }
         }
       }
@@ -13806,18 +13806,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/586/1465552.jpg"
         },
         "summary": "<p><b>GMA3</b> is a news, health, lifestyle and shopping program.</p>",
-        "updated": 1761066489,
+        "updated": 1761239756,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72930"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397810",
-            "name": "Matthew Pellicano Jr."
+            "href": "https://api.tvmaze.com/episodes/3397812",
+            "name": "Garcelle Beauvais, Rachel Beller, Caissie Levy, Joshua Henry, Brandon Uranowitz"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397811",
-            "name": "Taye Diggs"
+            "href": "https://api.tvmaze.com/episodes/3397813",
+            "name": "Odessa Young, Toni Chapman, Kathy Buccio"
           }
         }
       }
@@ -14048,7 +14048,7 @@
         "rating": {
           "average": null
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 52,
@@ -14077,12 +14077,12 @@
             "href": "https://api.tvmaze.com/shows/4175"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3389257",
-            "name": "Tue 21 Oct 2025"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3389258",
             "name": "Wed 22 Oct 2025"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3389259",
+            "name": "Mon 27 Oct 2025"
           }
         }
       }
@@ -14160,11 +14160,11 @@
           "imdb": "tt0380136"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/147/368908.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/147/368908.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1485403.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485403.jpg"
         },
         "summary": "<p>Sandi Toksvig, Alan Davies and a host of comedy stars swap funny facts on every subject under the sun. It doesn't matter if they're right, as long as they're quite interesting.</p>",
-        "updated": 1760729361,
+        "updated": 1761164193,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/703"
@@ -14399,7 +14399,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -14418,18 +14418,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/583/1458080.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1760569644,
+        "updated": 1761175168,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3270630",
-            "name": "The Straka Strikes"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3270631",
-            "name": "TBA"
+            "name": "Outward Past Beyond"
           }
         }
       }
@@ -14575,7 +14571,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 50,
         "network": {
           "id": 185,
           "name": "Fox News Channel",
@@ -14613,12 +14609,12 @@
             "href": "https://api.tvmaze.com/shows/76581"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385146",
-            "name": "Episode 204"
+            "href": "https://api.tvmaze.com/episodes/3385148",
+            "name": "Episode 206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385147",
-            "name": "Episode 205"
+            "href": "https://api.tvmaze.com/episodes/3385149",
+            "name": "Episode 207"
           }
         }
       }

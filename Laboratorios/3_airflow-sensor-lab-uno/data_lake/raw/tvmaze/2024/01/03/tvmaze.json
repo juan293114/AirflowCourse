@@ -239,7 +239,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -323,7 +323,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -407,7 +407,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -613,12 +613,12 @@
             "href": "https://api.tvmaze.com/shows/68583"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3316964",
-            "name": "Episode 131"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3316965",
             "name": "Episode 132"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3316966",
+            "name": "Episode 133"
           }
         }
       }
@@ -861,7 +861,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 76,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1038,7 +1038,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -2035,7 +2035,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 467,
@@ -2470,7 +2470,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 15,
         "network": {
           "id": 514,
           "name": "\u0422\u0412-3",
@@ -2585,18 +2585,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15519.jpg"
         },
         "summary": "<p>Set in the East End of London, the show focuses on the tensions between love and family with stories ranging from hard-hitting social issues, to personal, human tragedies. And there's plenty of funny moments too.\u00a0<br /><br />Classic characters old and new across thousands of episodes have shared a drink in The Queen Vic, shed tears of despair or joy, sat on Arthur's bench in the Square... and at some point or other they probably crossed paths with Ian Beale.</p>",
-        "updated": 1760873030,
+        "updated": 1761169537,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/793"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3394946",
-            "name": "21/10/2025"
+            "href": "https://api.tvmaze.com/episodes/3394948",
+            "name": "23/10/2025"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3394947",
-            "name": "22/10/2025"
+            "href": "https://api.tvmaze.com/episodes/3405685",
+            "name": "27/10/2025"
           }
         }
       }
@@ -4057,7 +4057,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4149,7 +4149,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4470,12 +4470,12 @@
             "href": "https://api.tvmaze.com/shows/5420"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3377228",
-            "name": "Episode 9333"
+            "href": "https://api.tvmaze.com/episodes/3377230",
+            "name": "Episode 9335"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3377229",
-            "name": "Episode 9334"
+            "href": "https://api.tvmaze.com/episodes/3377231",
+            "name": "Episode 9336"
           }
         }
       }
@@ -4612,7 +4612,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -5038,7 +5038,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5063,10 +5063,6 @@
             "href": "https://api.tvmaze.com/shows/66305"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3395198",
-            "name": "Juiced"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3400889",
             "name": "TBA"
           }
@@ -5122,7 +5118,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5202,7 +5198,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5369,7 +5365,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5879,7 +5875,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 38,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5968,7 +5964,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6224,7 +6220,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 9,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6302,7 +6298,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 701,
@@ -7005,7 +7001,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 552,
@@ -7089,7 +7085,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 484,
@@ -7169,7 +7165,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7188,14 +7184,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1760871674,
+        "updated": 1761112215,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3401050",
-            "name": "#2396 - Andrew Schulz"
+            "href": "https://api.tvmaze.com/episodes/3404209",
+            "name": "#2397 - Richard Lindzen & William Happer"
           }
         }
       }
@@ -7252,7 +7248,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 86,
+        "weight": 89,
         "network": {
           "id": 36,
           "name": "CBC",
@@ -7275,18 +7271,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485008.jpg"
         },
         "summary": "<p>Comedian and <i>Mr. D</i> star Gerry Dee hosts <b>Family Feud Canada</b>. Gerry invites families from across Canada to compete to guess the most popular answers to fun, family-friendly survey questions.</p>",
-        "updated": 1761079471,
+        "updated": 1761166224,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42893"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3404078",
-            "name": "Emojis 101: Eggplant Edition"
+            "href": "https://api.tvmaze.com/episodes/3404081",
+            "name": "TBA"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3404079",
-            "name": "Very Dee-Lighted to meet Gerry!"
+            "href": "https://api.tvmaze.com/episodes/3404082",
+            "name": "TBA"
           }
         }
       }
@@ -7433,7 +7429,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -7521,7 +7517,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 70,
         "network": {
           "id": 1,
           "name": "NBC",
@@ -7553,18 +7549,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
         },
         "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-        "updated": 1761052142,
+        "updated": 1761225888,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72466"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397784",
-            "name": "Billie Jean King, Abby Wambach, Julie Foudy, Ethan Hawke, Angela Kinsey, Josh Snyder"
+            "href": "https://api.tvmaze.com/episodes/3397786",
+            "name": "Laura Benanti, Misty Belles, Judy Joo"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397785",
-            "name": "Kristen Bell, Justine Lupe, Kathryn Bigelow, Brian Lewis"
+            "href": "https://api.tvmaze.com/episodes/3397787",
+            "name": "Dr. Marnie Nussbaum"
           }
         }
       }
@@ -7823,18 +7819,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298651.jpg"
         },
         "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-        "updated": 1760742815,
+        "updated": 1761264078,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/812"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382047",
-            "name": "Ep. #15231"
+            "href": "https://api.tvmaze.com/episodes/3382049",
+            "name": "Ep. #15233"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382048",
-            "name": "Ep. #15232"
+            "href": "https://api.tvmaze.com/episodes/3382050",
+            "name": "Ep. #15234"
           }
         }
       }
@@ -7979,7 +7975,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 11,
@@ -8002,18 +7998,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
         },
         "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-        "updated": 1761064736,
+        "updated": 1761239500,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/73192"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397805",
-            "name": "Episode 209"
+            "href": "https://api.tvmaze.com/episodes/3397807",
+            "name": "Episode 211"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397806",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3397808",
+            "name": "Episode 212"
           }
         }
       }
@@ -8071,7 +8067,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 619,
@@ -8413,7 +8409,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 662,
@@ -8501,7 +8497,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -8586,7 +8582,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 616,
@@ -8615,12 +8611,12 @@
             "href": "https://api.tvmaze.com/shows/76217"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382649",
-            "name": "Episode 210"
+            "href": "https://api.tvmaze.com/episodes/3382651",
+            "name": "Episode 212"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3382650",
-            "name": "Episode 211"
+            "href": "https://api.tvmaze.com/episodes/3382652",
+            "name": "Episode 213"
           }
         }
       }
@@ -8714,18 +8710,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/586/1465552.jpg"
         },
         "summary": "<p><b>GMA3</b> is a news, health, lifestyle and shopping program.</p>",
-        "updated": 1761066489,
+        "updated": 1761239756,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/72930"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397810",
-            "name": "Matthew Pellicano Jr."
+            "href": "https://api.tvmaze.com/episodes/3397812",
+            "name": "Garcelle Beauvais, Rachel Beller, Caissie Levy, Joshua Henry, Brandon Uranowitz"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3397811",
-            "name": "Taye Diggs"
+            "href": "https://api.tvmaze.com/episodes/3397813",
+            "name": "Odessa Young, Toni Chapman, Kathy Buccio"
           }
         }
       }
@@ -8817,12 +8813,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336172",
-            "name": "Aflevering 7145"
+            "href": "https://api.tvmaze.com/episodes/3336174",
+            "name": "Aflevering 7147"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3336173",
-            "name": "Aflevering 7146"
+            "href": "https://api.tvmaze.com/episodes/3336175",
+            "name": "Aflevering 7148"
           }
         }
       }
@@ -9323,7 +9319,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -9342,18 +9338,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/583/1458080.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1760569644,
+        "updated": 1761175168,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3270630",
-            "name": "The Straka Strikes"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3270631",
-            "name": "TBA"
+            "name": "Outward Past Beyond"
           }
         }
       }
@@ -9410,7 +9402,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 607,
@@ -9582,7 +9574,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 206,
@@ -9611,12 +9603,12 @@
             "href": "https://api.tvmaze.com/shows/70501"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3305741",
-            "name": "Episode 13"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3305742",
             "name": "Episode 14"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3305743",
+            "name": "Episode 15"
           }
         }
       }
@@ -10002,7 +9994,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 50,
         "network": {
           "id": 185,
           "name": "Fox News Channel",
@@ -10040,12 +10032,12 @@
             "href": "https://api.tvmaze.com/shows/76581"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385146",
-            "name": "Episode 204"
+            "href": "https://api.tvmaze.com/episodes/3385148",
+            "name": "Episode 206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3385147",
-            "name": "Episode 205"
+            "href": "https://api.tvmaze.com/episodes/3385149",
+            "name": "Episode 207"
           }
         }
       }
