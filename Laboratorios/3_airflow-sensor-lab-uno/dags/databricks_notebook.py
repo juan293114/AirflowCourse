@@ -55,7 +55,7 @@ def databricks_job_dag():
         },
     )
 
-    # 2) Tarea de transformación a SILVER que depende de la 1)
+    # 2) Tarea de transformación a SILVER que depende de la 2)
     transform_to_silver = DatabricksSubmitRunOperator(
         task_id="transform_to_silver",
         databricks_conn_id=DATABRICKS_CONN_ID,
