@@ -17,6 +17,7 @@ def xcom_demo():
     @task()
     def producer(**context) -> None:
         value = "Hello from producer"
+        #print(context)
         print("Pushing value via xcom_push:", value)
         context["ti"].xcom_push(key="greeting", value=value)
 

@@ -80,7 +80,7 @@ def send_completion_email() -> None:
 
     """
     email_sender = "juandavid2931@gmail.com"
-    email_password = "qeor nrif lbqy ujhx"
+    email_password = "mjvc nyga klvo yimw"
     email_receiver = "jdravila@bancolombia.com.co"
 
     message = EmailMessage()
@@ -144,7 +144,7 @@ def elt_medallon_dag():
         poke_interval=30,
         timeout=3600,
         fs_conn_id="fs_default",
-        mode="poke",
+        mode="poke", 
     )
 
     @task()
