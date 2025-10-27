@@ -54,7 +54,7 @@ Este proyecto utiliza un conjunto de herramientas modernas de ingeniería de dat
 
 #  Guía de Configuración Local 
 
-Esta guía resume las instrucciones para configurar el entorno localmente usando `uv` y Docker.
+Esta guía resume las instrucciones para configurar el entorno localmente usando `uv` y Docker en una maquina con **sistema operativo Windows 10**.
 
 ### Prerrequisitos
 
@@ -108,7 +108,7 @@ Sigue estos pasos para crear un espacio de trabajo aislado para tu proyecto.
 Ahora que el entorno está listo, instalaremos Airflow y lo iniciaremos.
 
 **Instalar Apache Airflow**
-* Dentro de tu entorno activado, usa `uv` para instalar la versión 3.0.0 de Airflow:
+* Dentro de tu entorno activado, usa `uv` para instalar todas las dependencias necesaria para el proyecto:
     ```bash
     uv pip install -r  .\requirements.txt
     ```
